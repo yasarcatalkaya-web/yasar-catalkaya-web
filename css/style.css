@@ -671,6 +671,19 @@ section[id] { scroll-margin-top: 80px; }
   padding: 60px 20px;
   color: var(--muted);
 }
+.laws__loading {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--muted);
+}
+.laws__meta {
+  text-align: center;
+  margin-top: 24px;
+  font-size: .8rem;
+  letter-spacing: .04em;
+  color: var(--muted);
+}
 
 .sources {
   margin-top: 50px;

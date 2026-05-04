@@ -286,88 +286,14 @@
         <input id="lawSearch" type="search" placeholder="Mevzuat ara — örn. KDV iadesi, e-Fatura, asgari ücret…" autocomplete="off">
       </label>
 
-      <div class="chips" id="lawChips" role="tablist" aria-label="Kategoriler">
-        <button class="chip is-active" data-cat="all" role="tab" aria-selected="true">Tümü</button>
-        <button class="chip" data-cat="VUK" role="tab">VUK</button>
-        <button class="chip" data-cat="KDV" role="tab">KDV</button>
-        <button class="chip" data-cat="KVK" role="tab">KVK</button>
-        <button class="chip" data-cat="SGK" role="tab">SGK</button>
-        <button class="chip" data-cat="DAMGA" role="tab">Damga</button>
-        <button class="chip" data-cat="TFRS" role="tab">TFRS</button>
-      </div>
+      <div class="chips" id="lawChips" role="tablist" aria-label="Kategoriler"></div>
     </div>
 
-    <div class="laws" id="lawList">
-      <article class="law" data-cat="VUK">
-        <div class="law__top"><span class="law__cat">VUK</span><time>17 Nisan 2026</time></div>
-        <h4 class="law__title">e-Defter Berat Yükleme Süreleri Yeniden Düzenlendi</h4>
-        <p class="law__desc">Ocak 2026 dönemine ait e-Defter beratlarının yüklenme süresi 30 Haziran'a uzatıldı; mücbir sebep kapsamındaki iller için ek 60 gün öngörüldü.</p>
-        <a class="law__more" href="https://www.resmigazete.gov.tr/" target="_blank" rel="noopener">Resmî Gazete'de oku <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="KDV">
-        <div class="law__top"><span class="law__cat">KDV</span><time>02 Nisan 2026</time></div>
-        <h4 class="law__title">İhracat İstisnasında YMM Tasdik Raporu Limiti Güncellendi</h4>
-        <p class="law__desc">2026 yılı için YMM tasdik raporu zorunluluğu olmadan iade alınabilecek üst sınır yeniden belirlendi; nakden iade taleplerinde teminat oranlarında değişiklik yapıldı.</p>
-        <a class="law__more" href="https://www.gib.gov.tr/" target="_blank" rel="noopener">GİB duyurusunu oku <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="KVK">
-        <div class="law__top"><span class="law__cat">KVK</span><time>28 Mart 2026</time></div>
-        <h4 class="law__title">Kurumlar Vergisi Geçici Vergi Dönemi Beyan Kılavuzu</h4>
-        <p class="law__desc">2026/I. geçici vergi dönemi için beyanname kılavuzu yayımlandı; enflasyon düzeltmesi sonrası mali kâr hesaplamasına ilişkin yeni örnekler eklendi.</p>
-        <a class="law__more" href="https://www.gib.gov.tr/" target="_blank" rel="noopener">GİB duyurusunu oku <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="SGK">
-        <div class="law__top"><span class="law__cat">SGK</span><time>21 Mart 2026</time></div>
-        <h4 class="law__title">Asgari Ücret Desteği 2026 İkinci Yarı Uygulaması</h4>
-        <p class="law__desc">Temmuz–Aralık 2026 dönemi için işverene sağlanacak asgari ücret prim desteğinin tutarı, kapsamı ve başvuru takvimi açıklandı.</p>
-        <a class="law__more" href="https://www.sgk.gov.tr/" target="_blank" rel="noopener">SGK duyurusunu oku <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="VUK">
-        <div class="law__top"><span class="law__cat">VUK</span><time>14 Mart 2026</time></div>
-        <h4 class="law__title">e-Fatura Uygulamasına Geçiş Hadleri</h4>
-        <p class="law__desc">Brüt satış hasılatı 3 milyon TL'yi aşan mükelleflerin e-Fatura ve e-Arşiv uygulamasına geçiş yükümlülüğü 1 Temmuz 2026'da başlıyor.</p>
-        <a class="law__more" href="https://ebelge.gib.gov.tr/" target="_blank" rel="noopener">GİB e-Belge portalı <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="TFRS">
-        <div class="law__top"><span class="law__cat">TFRS</span><time>06 Mart 2026</time></div>
-        <h4 class="law__title">TFRS 18 — Finansal Tablolarda Sunum ve Açıklamalar</h4>
-        <p class="law__desc">KGK, TFRS 18'in 1 Ocak 2027 itibarıyla zorunlu uygulanmasına yönelik geçiş kılavuzunu yayımladı; karşılaştırmalı dönem sunumu örnekleri eklendi.</p>
-        <a class="law__more" href="https://www.kgk.gov.tr/" target="_blank" rel="noopener">KGK duyurusunu oku <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="DAMGA">
-        <div class="law__top"><span class="law__cat">DAMGA</span><time>27 Şubat 2026</time></div>
-        <h4 class="law__title">Damga Vergisi Tutarları 2026 Yeniden Değerleme</h4>
-        <p class="law__desc">2026 yılı için damga vergisi maktu tutarları yeniden değerleme oranında artırıldı; sözleşme türleri itibarıyla detaylı liste yayımlandı.</p>
-        <a class="law__more" href="https://www.resmigazete.gov.tr/" target="_blank" rel="noopener">Resmî Gazete'de oku <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="KDV">
-        <div class="law__top"><span class="law__cat">KDV</span><time>15 Şubat 2026</time></div>
-        <h4 class="law__title">Tevkifat Listesinde Güncelleme</h4>
-        <p class="law__desc">Demir-çelik ürünleri ve belirli inşaat hizmetleri için KDV tevkifat oranları yeniden düzenlendi; mahsuben iade prosedürü hızlandırıldı.</p>
-        <a class="law__more" href="https://www.gib.gov.tr/" target="_blank" rel="noopener">GİB duyurusunu oku <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="KVK">
-        <div class="law__top"><span class="law__cat">KVK</span><time>03 Şubat 2026</time></div>
-        <h4 class="law__title">Yatırım Teşvik Belgesi Kapsamında İndirimli Kurumlar Vergisi</h4>
-        <p class="law__desc">Bölgesel teşvik haritası güncellendi; yatırıma katkı tutarının diğer faaliyetlerden elde edilen kazançlara uygulanma sınırı yeniden belirlendi.</p>
-        <a class="law__more" href="https://www.sanayi.gov.tr/" target="_blank" rel="noopener">Bakanlık duyurusu <span aria-hidden="true">↗</span></a>
-      </article>
-
-      <article class="law" data-cat="SGK">
-        <div class="law__top"><span class="law__cat">SGK</span><time>20 Ocak 2026</time></div>
-        <h4 class="law__title">Genç İstihdam Teşvikinde Süre Uzatımı</h4>
-        <p class="law__desc">25 yaş altı çalışanlar için işveren prim hissesi desteğinin uygulama süresi 31.12.2027'ye kadar uzatıldı; başvuru koşulları sadeleştirildi.</p>
-        <a class="law__more" href="https://www.sgk.gov.tr/" target="_blank" rel="noopener">SGK duyurusunu oku <span aria-hidden="true">↗</span></a>
-      </article>
+    <div class="laws" id="lawList" data-loading="true">
+      <p class="laws__loading">Güncel mevzuat duyuruları yükleniyor…</p>
     </div>
+
+    <p class="laws__meta" id="lawMeta" hidden></p>
 
     <p class="laws__empty" id="lawEmpty" hidden>Aradığınız kriterlerle eşleşen mevzuat bulunamadı.</p>
 

@@ -120,12 +120,12 @@
     });
   }
 
-  /* ---------- Mevzuat: search + category filter ---------- */
+  /* ---------- Mevzuat: dinamik render + arama + kategori filtresi ---------- */
   const searchInput = document.getElementById('lawSearch');
   const chipsBox    = document.getElementById('lawChips');
   const lawList     = document.getElementById('lawList');
   const lawEmpty    = document.getElementById('lawEmpty');
-  const laws        = lawList ? Array.from(lawList.querySelectorAll('.law')) : [];
+  const lawMeta     = document.getElementById('lawMeta');
 
   const norm = (s) => (s || '').toString()
     .toLocaleLowerCase('tr-TR')
@@ -136,23 +136,87 @@
     .replace(/[üÜ]/g, 'u')
     .replace(/[öÖ]/g, 'o');
 
+  const escapeHtml = (s) => (s || '').replace(/[&<>"']/g, (c) => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
+
   let currentCat = 'all';
   let currentQ   = '';
+  let laws       = [];
 
   const applyFilter = () => {
     const q = norm(currentQ.trim());
     let visible = 0;
     laws.forEach((card) => {
-      const cat = card.dataset.cat;
-      const text = norm(card.textContent);
+      const cat  = card.dataset.cat;
+      const text = card.dataset.search || norm(card.textContent);
       const catOk = currentCat === 'all' || cat === currentCat;
-      const qOk = !q || text.indexOf(q) !== -1;
-      const show = catOk && qOk;
+      const qOk   = !q || text.indexOf(q) !== -1;
+      const show  = catOk && qOk;
       card.style.display = show ? '' : 'none';
       if (show) visible++;
     });
     if (lawEmpty) lawEmpty.hidden = visible !== 0;
   };
+
+  const renderChips = (categories) => {
+    if (!chipsBox) return;
+    const all = ['all', ...categories];
+    chipsBox.innerHTML = all.map((c, i) => {
+      const label = c === 'all' ? 'Tümü' : c;
+      const cls = i === 0 ? 'chip is-active' : 'chip';
+      const sel = i === 0 ? 'true' : 'false';
+      return `<button class="${cls}" data-cat="${escapeHtml(c)}" role="tab" aria-selected="${sel}">${escapeHtml(label)}</button>`;
+    }).join('');
+  };
+
+  const renderItems = (items) => {
+    if (!lawList) return;
+    lawList.removeAttribute('data-loading');
+    if (!items.length) {
+      lawList.innerHTML = '<p class="laws__loading">Şu anda görüntülenecek mevzuat duyurusu yok.</p>';
+      return;
+    }
+    lawList.innerHTML = items.map((it) => {
+      const search = norm(`${it.title} ${it.summary} ${it.category}`);
+      return `
+        <article class="law" data-cat="${escapeHtml(it.category)}" data-search="${escapeHtml(search)}">
+          <div class="law__top"><span class="law__cat">${escapeHtml(it.category)}</span><time>${escapeHtml(it.date)}</time></div>
+          <h4 class="law__title">${escapeHtml(it.title)}</h4>
+          <p class="law__desc">${escapeHtml(it.summary)}</p>
+          <a class="law__more" href="${escapeHtml(it.url)}" target="_blank" rel="noopener">GİB'de oku <span aria-hidden="true">↗</span></a>
+        </article>
+      `;
+    }).join('');
+    laws = Array.from(lawList.querySelectorAll('.law'));
+  };
+
+  const renderMeta = (fetchedAt) => {
+    if (!lawMeta || !fetchedAt) return;
+    const d = new Date(fetchedAt);
+    if (isNaN(d.getTime())) return;
+    const fmt = d.toLocaleString('tr-TR', { day: '2-digit', month: 'long', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+    lawMeta.textContent = `Kaynak: gib.gov.tr · Son güncelleme: ${fmt}`;
+    lawMeta.hidden = false;
+  };
+
+  const loadMevzuat = async () => {
+    if (!lawList) return;
+    try {
+      const res = await fetch('data/mevzuat.json', { cache: 'no-cache' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      const items = data.items || [];
+      const cats = Array.from(new Set(items.map((i) => i.category))).sort();
+      renderChips(cats);
+      renderItems(items);
+      renderMeta(data.fetchedAt);
+    } catch (err) {
+      lawList.removeAttribute('data-loading');
+      lawList.innerHTML = `<p class="laws__loading">Mevzuat verisi yüklenemedi: ${escapeHtml(err.message || err)}.<br>Lütfen <a href="https://gib.gov.tr/duyuru-arsivi/mevzuat" target="_blank" rel="noopener">GİB Duyuru Arşivi</a>'ni ziyaret edin.</p>`;
+    }
+  };
+  loadMevzuat();
 
   if (searchInput) {
     searchInput.addEventListener('input', (e) => {
@@ -174,8 +238,5 @@
       applyFilter();
     });
   }
-
-  /* ---------- Year stamp (in case footer text is updated later) ---------- */
-  // no-op for now — placeholder for future dynamic year
 
 })();
