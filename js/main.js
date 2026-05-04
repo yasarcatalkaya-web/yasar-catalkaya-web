@@ -239,4 +239,41 @@
     });
   }
 
+  /* ---------- Özelgeler: 2026 listesi ---------- */
+  const ozelgeList = document.getElementById('ozelgeList');
+  const ozelgeMeta = document.getElementById('ozelgeMeta');
+
+  const loadOzelgeler = async () => {
+    if (!ozelgeList) return;
+    try {
+      const res = await fetch('data/ozelgeler.json', { cache: 'no-cache' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      const items = data.items || [];
+      ozelgeList.removeAttribute('data-loading');
+      if (!items.length) {
+        ozelgeList.innerHTML = `<li class="ozelge-list__loading">${data.year} yılına ait özelge bulunamadı.</li>`;
+        return;
+      }
+      ozelgeList.innerHTML = items.map((it) => `
+        <li class="ozelge">
+          <time class="ozelge__date">${escapeHtml(it.date)}</time>
+          <span class="ozelge__law">${escapeHtml(it.law)}</span>
+          <a class="ozelge__subject" href="${escapeHtml(it.url)}" target="_blank" rel="noopener" title="${escapeHtml(it.subject)}">
+            ${escapeHtml(it.subject)}
+            <span class="ozelge__arrow" aria-hidden="true">↗</span>
+          </a>
+        </li>
+      `).join('');
+      if (ozelgeMeta) {
+        ozelgeMeta.textContent = `Kaynak: GİB Özelge Veritabanı · ${items.length} adet ${data.year} özelgesi`;
+        ozelgeMeta.hidden = false;
+      }
+    } catch (err) {
+      ozelgeList.removeAttribute('data-loading');
+      ozelgeList.innerHTML = `<li class="ozelge-list__loading">Özelge listesi yüklenemedi (${escapeHtml(err.message || err)}).</li>`;
+    }
+  };
+  loadOzelgeler();
+
 })();

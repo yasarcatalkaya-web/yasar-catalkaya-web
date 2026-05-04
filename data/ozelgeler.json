@@ -1,0 +1,116 @@
+{
+  "source": "linkli özelge listesi.xlsx",
+  "year": 2026,
+  "fetchedAt": "2026-05-04T20:27:54Z",
+  "count": 12,
+  "items": [
+    {
+      "date": "16.04.2026",
+      "sortKey": "2026-04-16",
+      "no": "",
+      "subject": "OYAK Bağış Karşılığı Ölünceye Kadar Emekli Geliri Ödenmesi Sözleşmesi Kapsamında Anlaşmalı Sigorta Şirketince Ödenecek Vefat Tazminatında Veraset ve İntikal Vergisi Aranılması hk.",
+      "law": "VERASET",
+      "lawRaw": "VİV",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/440/ozelge/38851"
+    },
+    {
+      "date": "14.04.2026",
+      "sortKey": "2026-04-14",
+      "no": "",
+      "subject": "Murisin hissedarı olduğu şirket hissesinin hangi değerle beyan edileceği hk.",
+      "law": "VERASET",
+      "lawRaw": "VİV",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/440/ozelge/38850"
+    },
+    {
+      "date": "10.04.2026",
+      "sortKey": "2026-04-10",
+      "no": "",
+      "subject": "Edinilmiş Mallara Katılma Rejimi",
+      "law": "VERASET",
+      "lawRaw": "VİV",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/440/ozelge/38852"
+    },
+    {
+      "date": "01.04.2026",
+      "sortKey": "2026-04-01",
+      "no": "",
+      "subject": "Sağlık Meslek Hizmet Birimi Ruhsat Belgesine istinaden fizyoterapist unvanı ile ifa edilen hizmetlerde uygulanması gereken KDV oranı",
+      "law": "KDV",
+      "lawRaw": "KDV",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/436/ozelge/38849"
+    },
+    {
+      "date": "23.03.2026",
+      "sortKey": "2026-03-23",
+      "no": "",
+      "subject": "SPK Lisansına Sahip Bağımsız Denetim Şirketinin Faaliyetlerine Uygulanacak Kurumlar Vergisi Oranı ve Enflasyon Düzeltm",
+      "law": "VUK",
+      "lawRaw": "VUK",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/434/ozelge/38875"
+    },
+    {
+      "date": "13.03.2026",
+      "sortKey": "2026-03-13",
+      "no": "",
+      "subject": "Tahsil edilemeyen alacakların değersiz alacak olarak kaydı",
+      "law": "VUK",
+      "lawRaw": "VUK",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/434/ozelge/38874"
+    },
+    {
+      "date": "25.02.2026",
+      "sortKey": "2026-02-25",
+      "no": "",
+      "subject": "Kooperatife ait biçerdöverin ortaklara ve ortak olmayanlara kullandırılması durumunda vergi uygulamaları hk.",
+      "law": "KVK",
+      "lawRaw": "KVK",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/435/ozelge/38840"
+    },
+    {
+      "date": "23.02.2026",
+      "sortKey": "2026-02-23",
+      "no": "",
+      "subject": "Almanya D tipi ulusal vize sahiplerinin yurt dışına çıkış harcından muaf olup olmadıkları",
+      "law": "HARÇLAR",
+      "lawRaw": "Harçlar",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/439/ozelge/38838"
+    },
+    {
+      "date": "20.02.2026",
+      "sortKey": "2026-02-20",
+      "no": "",
+      "subject": "Havyar satışında uygulanması gereken KDV oranı",
+      "law": "KDV",
+      "lawRaw": "KDV",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/436/ozelge/38848"
+    },
+    {
+      "date": "10.02.2026",
+      "sortKey": "2026-02-10",
+      "no": "",
+      "subject": "Serbest Bölgede Faaliyet İzni Dolan Mükellefin Özel Hesap Döneminin Sona Ermesi Üzerine Defter Kayıtlarının Durumu hk.",
+      "law": "VUK",
+      "lawRaw": "VUK",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/434/ozelge/38873"
+    },
+    {
+      "date": "30.01.2026",
+      "sortKey": "2026-01-30",
+      "no": "",
+      "subject": "Mobil Uygulamaların App Store ve Google Play Store'dan İndirilmesinden Elde Edilen Kazancın Vergilendirilmesi hk.",
+      "law": "KVK",
+      "lawRaw": "KVK",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/435/ozelge/38808"
+    },
+    {
+      "date": "02.01.2026",
+      "sortKey": "2026-01-02",
+      "no": "",
+      "subject": "Devre mülk hakkının kiraya verilmesi durumunda konaklama ve gelir vergisi uygulaması hk.",
+      "law": "GİDER",
+      "lawRaw": "GİDER VERGİLERİ KANUNU",
+      "url": "https://www.gib.gov.tr/mevzuat/kanun/445/ozelge/38786"
+    }
+  ]
+}
