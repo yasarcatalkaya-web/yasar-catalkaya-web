@@ -40,4 +40,11 @@ jobs:
             exit 0
           fi
           git commit -m "chore(mevzuat): GİB duyurularını güncelle"
-          git push
+          # Concurrent run yarışı varsa rebase ile çöz
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "::warning::push failed (try $i), rebasing onto origin/main…"
+            git pull --rebase origin main
+          done
+          echo "::error::push still failing after retries"
+          exit 1
