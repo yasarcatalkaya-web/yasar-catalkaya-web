@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-06T10:35:17.295Z",
+  "fetchedAt": "2026-05-07T10:55:29.924Z",
   "count": 15,
   "items": [
+    {
+      "id": 17897,
+      "date": "06.05.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 7/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17897",
+      "category": "CB-KARARI"
+    },
     {
       "id": 17870,
       "date": "04.05.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar'ın ekindeki listede yer alan mallar için 8/4/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17586",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 17519,
-      "date": "02.04.2026",
-      "title": "Yurt İçi Asgari Kurumlar Vergisi Rehberi Yayımlandı",
-      "summary": "7524 sayılı Kanun ile Kurumlar Vergisi Kanununun 32/C maddesine Yurt İçi Asgari Kurumlar Vergisi eklenmiştir. Konu hakkında yeni hazırlanan “Yurt İçi Asgari Kurumlar Vergisi Rehberi” kullanıma sunulmu",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17519",
-      "category": "KVK"
     }
   ]
 }
