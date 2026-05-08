@@ -1,8 +1,24 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-07T10:55:29.924Z",
+  "fetchedAt": "2026-05-08T08:15:29.061Z",
   "count": 15,
   "items": [
+    {
+      "id": 17913,
+      "date": "08.05.2026",
+      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 593) Resmi Gazete’de Yayımlandı",
+      "summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No:593) ile; - Kayıtlı ekonominin desteklenmesi, mükelleflerin iş süreçlerinin kolaylaştırılması, düzenlenmesi zorunlu olan elektronik belgelerin tahsilat bilgile",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17913",
+      "category": "VUK"
+    },
+    {
+      "id": 17907,
+      "date": "07.05.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 8/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17907",
+      "category": "CB-KARARI"
+    },
     {
       "id": 17897,
       "date": "06.05.2026",
@@ -106,22 +122,6 @@
       "summary": "Küresel Asgari Tamamlayıcı Kurumlar Vergisine (küresel ATV) ilişkin olarak Başkanlığımıza iletilen sorulara istinaden aşağıdaki açıklamaların yapılmasına ihtiyaç duyulmuştur. 5520 sayılı Kurumlar Verg",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17607",
       "category": "KVK"
-    },
-    {
-      "id": 17598,
-      "date": "08.04.2026",
-      "title": "25 Seri No.lu Kurumlar Vergisi Genel Tebliğ Taslağı Hazırlanmıstır",
-      "summary": "7524 sayılı Kanunun 32 nci ve 7566 sayılı Kanunun 2 nci maddeleri ile 5520 sayılı Kurumlar Vergisi Kanununda ve 193 sayılı Gelir Vergisi Kanununda, yatırım fon ve ortaklıklarının kurumlar vergisi isti",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17598",
-      "category": "KVK"
-    },
-    {
-      "id": 17586,
-      "date": "07.04.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar'ın ekindeki listede yer alan mallar için 8/4/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17586",
-      "category": "CB-KARARI"
     }
   ]
 }
