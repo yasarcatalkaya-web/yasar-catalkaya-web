@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-08T08:15:29.061Z",
+  "fetchedAt": "2026-05-09T08:54:38.798Z",
   "count": 15,
   "items": [
+    {
+      "id": 17924,
+      "date": "08.05.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 9/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17924",
+      "category": "CB-KARARI"
+    },
     {
       "id": 17913,
       "date": "08.05.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 10/4/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17627",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 17607,
-      "date": "08.04.2026",
-      "title": "Küresel Asgari Tamamlayıcı Kurumlar Vergisi Uygulaması ile Küresel Asgari Tamamlayıcı Kurumlar Vergisi Beyannamesi ve Küresel Asgari Tamamlayıcı Kurumlar Vergisine İlişkin Bildirim Formu Taslakları Hakkında  Duyuru",
-      "summary": "Küresel Asgari Tamamlayıcı Kurumlar Vergisine (küresel ATV) ilişkin olarak Başkanlığımıza iletilen sorulara istinaden aşağıdaki açıklamaların yapılmasına ihtiyaç duyulmuştur. 5520 sayılı Kurumlar Verg",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17607",
-      "category": "KVK"
     }
   ]
 }
