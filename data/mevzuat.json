@@ -1,8 +1,24 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-10T09:15:23.219Z",
+  "fetchedAt": "2026-05-11T13:34:52.820Z",
   "count": 15,
   "items": [
+    {
+      "id": 17943,
+      "date": "11.05.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 12/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17943",
+      "category": "CB-KARARI"
+    },
+    {
+      "id": 17938,
+      "date": "11.05.2026",
+      "title": "Elektronik Defterlerin Oluşturulma ve İmzalanma Süresi ile Elektronik Defter ve Berat Dosyalarının Gelir İdaresi Başkanlığı Bilgi İşlem Sistemine Yüklenme Süresi Uzatıldı",
+      "summary": "11 Mayıs 2026 tarihli ve 198 Sıra No.lu Vergi Usul Kanunu Sirküleriyle, elektronik defter (e-Defter) uygulamasına dâhil olanlar tarafından 11 Mayıs 2026 (10 Mayıs 2026 tarihinin resmi tatile rastlamas",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17938",
+      "category": "GENEL"
+    },
     {
       "id": 17924,
       "date": "08.05.2026",
@@ -106,22 +122,6 @@
       "summary": "5520 Sayılı Kurumlar Vergisi Kanunu 72 Nolu Sirküleri ile 2026 yılı birinci geçici vergi döneminde uygulanacak yeniden değerleme oranı % 4,19 (yüzde dört virgül ondokuz) olarak tespit edilmiştir. Söz",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17659",
       "category": "KVK"
-    },
-    {
-      "id": 17642,
-      "date": "10.04.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 11/4/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17642",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 17627,
-      "date": "09.04.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 10/4/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17627",
-      "category": "CB-KARARI"
     }
   ]
 }
