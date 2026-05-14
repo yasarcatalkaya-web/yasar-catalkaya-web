@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-13T11:37:35.074Z",
+  "fetchedAt": "2026-05-14T11:21:27.510Z",
   "count": 15,
   "items": [
+    {
+      "id": 17972,
+      "date": "13.05.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 14/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17972",
+      "category": "CB-KARARI"
+    },
     {
       "id": 17943,
       "date": "11.05.2026",
@@ -114,14 +122,6 @@
       "summary": "7577 Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun 17/04/2026 tarihli ve 33227 sayılı Resmi Gazete’de yayımlandı. 7577 Sayılı Kanuna ulaşmak için tıklayınız.",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17705",
       "category": "GENEL"
-    },
-    {
-      "id": 17659,
-      "date": "10.04.2026",
-      "title": "5520 Sayılı Kurumlar Vergisi Kanunu 72 Nolu Sirküler Yayımlandı",
-      "summary": "5520 Sayılı Kurumlar Vergisi Kanunu 72 Nolu Sirküleri ile 2026 yılı birinci geçici vergi döneminde uygulanacak yeniden değerleme oranı % 4,19 (yüzde dört virgül ondokuz) olarak tespit edilmiştir. Söz",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17659",
-      "category": "KVK"
     }
   ]
 }
