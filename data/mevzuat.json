@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-15T11:31:19.074Z",
+  "fetchedAt": "2026-05-16T09:13:52.619Z",
   "count": 15,
   "items": [
+    {
+      "id": 18001,
+      "date": "15.05.2026",
+      "title": "Muhtasar ve Prim Hizmet, Konaklama Vergisi ve Damga Vergisi Beyannameleri ile Katma Değer Vergisi Beyannamelerinin Verilme Süreleri ve Bu Beyannameler Üzerine Tahakkuk Eden Vergilerin Ödeme Sürelerinin Uzatılmasına İlişkin Sirküler Yayınlandı",
+      "summary": "199 sayılı Vergi Usul Kanunu Sirküleri ile; 26 Mayıs 2026 günü sonuna kadar verilmesi gereken Muhtasar ve Prim Hizmet, Konaklama Vergisi ve Damga Vergisi Beyannameleri ile 1 Haziran 2026 günü sonuna k",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18001",
+      "category": "KDV"
+    },
     {
       "id": 17972,
       "date": "13.05.2026",
@@ -114,14 +122,6 @@
       "summary": "17/4/2026 tarihli ve 33227 sayılı Resmî Gazete’de yayımlanan 7577 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 8 inci maddesiyle ÖTV Kanununun 7 nci maddesinin birinci fıkrasının (2) num",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17776",
       "category": "TEBLİĞ"
-    },
-    {
-      "id": 17705,
-      "date": "17.04.2026",
-      "title": "7577 Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Resmi Gazete’de Yayımlandı",
-      "summary": "7577 Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun 17/04/2026 tarihli ve 33227 sayılı Resmi Gazete’de yayımlandı. 7577 Sayılı Kanuna ulaşmak için tıklayınız.",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17705",
-      "category": "GENEL"
     }
   ]
 }
