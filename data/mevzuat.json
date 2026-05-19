@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-18T14:45:48.734Z",
+  "fetchedAt": "2026-05-19T14:06:21.309Z",
   "count": 15,
   "items": [
+    {
+      "id": 18029,
+      "date": "19.05.2026",
+      "title": "Yıllara Sari Nükleer Santral İnşaatı ve Onarım İşlerinde Uygulanan Tevkifat Oranının Düşürülmesine İlişkin Cumhurbaşkanı Kararı Resmî Gazete’de Yayımlandı",
+      "summary": "193 sayılı Gelir Vergisi Kanunu’nun 42’nci maddesi kapsamında değerlendirilen birden fazla takvim yılına sirayet eden inşaat ve onarım işlerinde, yüklenicilere yapılan hak ediş ödemeleri üzerinden gel",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18029",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18001,
       "date": "15.05.2026",
@@ -114,14 +122,6 @@
       "summary": "24/4/2026 tarihli ve 11205 sayılı Cumhurbaşkanı Kararı ile bankalar ve finansman şirketleri dışında Türkiye’de yerleşik kişilerin Asya Kalkınma Bankasından sağladıkları kredilerde Kaynak Kullanımını D",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17817",
       "category": "GENEL"
-    },
-    {
-      "id": 17776,
-      "date": "22.04.2026",
-      "title": "Özel Tüketim Vergisi (II) Sayılı Liste Uygulama Genel Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 17) Resmi Gazete’de Yayımlandı",
-      "summary": "17/4/2026 tarihli ve 33227 sayılı Resmî Gazete’de yayımlanan 7577 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 8 inci maddesiyle ÖTV Kanununun 7 nci maddesinin birinci fıkrasının (2) num",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17776",
-      "category": "TEBLİĞ"
     }
   ]
 }
