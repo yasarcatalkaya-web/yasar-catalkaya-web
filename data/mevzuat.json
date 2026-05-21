@@ -1,8 +1,24 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-20T12:11:58.303Z",
+  "fetchedAt": "2026-05-21T14:19:08.957Z",
   "count": 15,
   "items": [
+    {
+      "id": 18043,
+      "date": "21.05.2026",
+      "title": "531 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin 7 nci Maddesinin (1) Numaralı Fıkrasının (b) Bendi Uyarınca 2026 Yılı Mayıs Ayı Sonuna Kadar Verilmesi Gereken Teminatların Verilme Süresinin Uzatılmasına İlişkin Sirküler Yayımlandı",
+      "summary": "531 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin 7 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca, Mezkur Tebliğ kapsamında 2026 yılı Mayıs ayı sonuna kadar verilmesi gereken teminatların,",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18043",
+      "category": "VUK"
+    },
+    {
+      "id": 18040,
+      "date": "21.05.2026",
+      "title": "Yeminli Mali Müşavirlik (YMM) Tasdik Raporlarının İbraz Süresinin Uzatılmasına İlişkin Sirküler Yayımlandı",
+      "summary": "2025 yılı hesap dönemine ait gelir vergisi beyannamesi tasdik raporları ile 2025 yılı hesap dönemine ait gelir vergisi istisna, indirim ve uygulama tasdik raporlarının dijital vergi dairesi üzerinden",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18040",
+      "category": "SİRKÜLER"
+    },
     {
       "id": 18029,
       "date": "19.05.2026",
@@ -106,22 +122,6 @@
       "summary": "193 Sayılı Gelir Vergisi Kanununun 22 nci Maddesi ve 89 uncu Maddesi ile 5520 Sayılı Kurumlar Vergisi Kanununun 5 inci Maddesi ve 10 uncu Maddesinde Yer Alan Bazı Oranların Yeniden Belirlenmesi Hakkın",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17846",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 17806,
-      "date": "27.04.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 28/4/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17806",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 17817,
-      "date": "27.04.2026",
-      "title": "Kaynak Kullanımını Destekleme Fonu Kesintisi Hakkında Karar (Karar Sayısı: 11205) Resmi Gazete’de Yayımlandı",
-      "summary": "24/4/2026 tarihli ve 11205 sayılı Cumhurbaşkanı Kararı ile bankalar ve finansman şirketleri dışında Türkiye’de yerleşik kişilerin Asya Kalkınma Bankasından sağladıkları kredilerde Kaynak Kullanımını D",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17817",
-      "category": "GENEL"
     }
   ]
 }
