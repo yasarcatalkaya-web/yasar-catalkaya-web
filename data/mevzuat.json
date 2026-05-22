@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-21T14:19:08.957Z",
+  "fetchedAt": "2026-05-22T12:07:32.624Z",
   "count": 15,
   "items": [
+    {
+      "id": 18057,
+      "date": "22.05.2026",
+      "title": "Mücbir Sebep Hali 30/11/2025 Tarihinde Sona Eren Mükelleflerden e-Defter Uygulamasına Dâhil Olanlara İlişkin Olarak Elektronik Defterlerin Oluşturulma ve İmzalanma Süresi ile Elektronik Defter ve Berat Dosyalarının Yüklenme Süresi Uzatıldı",
+      "summary": "22 Mayıs 2026 tarihli ve 201 sayılı Vergi Usul Kanunu Sirküleriyle; Adıyaman, Hatay, Kahramanmaraş, Malatya illeri ile Gaziantep ilinin İslahiye ve Nurdağı ilçelerindeki mükelleflerden mücbir sebep ha",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18057",
+      "category": "GENEL"
+    },
     {
       "id": 18043,
       "date": "21.05.2026",
@@ -114,14 +122,6 @@
       "summary": "Kurumlar vergisi mükellefleri tarafından 2025 hesap dönemine ilişkin kurumlar vergisi beyannamesi, 1– 30 Nisan 2026 tarihleri arasında gib.gov.tr aracılığı ile dijital.gib.gov.tr adresi üzerinden elek",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17490",
       "category": "KVK"
-    },
-    {
-      "id": 17846,
-      "date": "30.04.2026",
-      "title": "11257 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’de Yayımlandı",
-      "summary": "193 Sayılı Gelir Vergisi Kanununun 22 nci Maddesi ve 89 uncu Maddesi ile 5520 Sayılı Kurumlar Vergisi Kanununun 5 inci Maddesi ve 10 uncu Maddesinde Yer Alan Bazı Oranların Yeniden Belirlenmesi Hakkın",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17846",
-      "category": "CB-KARARI"
     }
   ]
 }
