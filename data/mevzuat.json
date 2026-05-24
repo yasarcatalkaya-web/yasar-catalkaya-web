@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-23T09:26:03.962Z",
+  "fetchedAt": "2026-05-24T10:13:36.262Z",
   "count": 15,
   "items": [
+    {
+      "id": 18065,
+      "date": "24.05.2026",
+      "title": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 25) Resmi Gazete’de Yayımlandı",
+      "summary": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 25) 24/05/2026 tarihli ve 33263 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıkl",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18065",
+      "category": "KVK"
+    },
     {
       "id": 18057,
       "date": "22.05.2026",
@@ -114,14 +122,6 @@
       "summary": "6802 sayılı Gider Vergileri Kanununun “Konaklama vergisi” başlıklı 34 üncü maddesinin beşinci fıkrasında yer alan konaklama vergisi oranını 31/12/2026 tarihine kadar (bu tarih dâhil) %1 olarak yeniden",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17866",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 17490,
-      "date": "30.04.2026",
-      "title": "Kurumlar Vergisi Beyan Dönemi İçin Son Gün 30 Nisan 2026",
-      "summary": "Kurumlar vergisi mükellefleri tarafından 2025 hesap dönemine ilişkin kurumlar vergisi beyannamesi, 1– 30 Nisan 2026 tarihleri arasında gib.gov.tr aracılığı ile dijital.gib.gov.tr adresi üzerinden elek",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17490",
-      "category": "KVK"
     }
   ]
 }
