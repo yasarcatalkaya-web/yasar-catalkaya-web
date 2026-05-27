@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-05-26T06:49:48.766Z",
+  "fetchedAt": "2026-05-27T07:05:57.062Z",
   "count": 15,
   "items": [
+    {
+      "id": 18066,
+      "date": "26.05.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 27/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18066",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18065,
       "date": "24.05.2026",
@@ -114,14 +122,6 @@
       "summary": "7440 sayılı Kanun kapsamında yapılandırılan ve taksit ile ödeme seçeneğini tercih eden mükellefler için yapılandırılan borçların taksit ödemeleri devam etmekte olup, yapılandırılan borçların 36 ncı ta",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17870",
       "category": "GENEL"
-    },
-    {
-      "id": 17866,
-      "date": "01.05.2026",
-      "title": "11263 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’de Yayımlandı",
-      "summary": "6802 sayılı Gider Vergileri Kanununun “Konaklama vergisi” başlıklı 34 üncü maddesinin beşinci fıkrasında yer alan konaklama vergisi oranını 31/12/2026 tarihine kadar (bu tarih dâhil) %1 olarak yeniden",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17866",
-      "category": "CB-KARARI"
     }
   ]
 }
