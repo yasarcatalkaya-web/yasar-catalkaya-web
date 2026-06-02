@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-01T08:37:03.918Z",
+  "fetchedAt": "2026-06-02T07:26:22.425Z",
   "count": 15,
   "items": [
+    {
+      "id": 18073,
+      "date": "01.06.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 2/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18073",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18066,
       "date": "26.05.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 7/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17897",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 17870,
-      "date": "04.05.2026",
-      "title": "7440 Sayılı Kanun Kapsamında Yapılandırılan Borçların Taksitlerinin Ödenmesine İlişkin Duyuru",
-      "summary": "7440 sayılı Kanun kapsamında yapılandırılan ve taksit ile ödeme seçeneğini tercih eden mükellefler için yapılandırılan borçların taksit ödemeleri devam etmekte olup, yapılandırılan borçların 36 ncı ta",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17870",
-      "category": "GENEL"
     }
   ]
 }
