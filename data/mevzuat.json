@@ -1,8 +1,64 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-02T07:26:22.425Z",
+  "fetchedAt": "2026-06-05T07:11:17.739Z",
   "count": 15,
   "items": [
+    {
+      "id": 18112,
+      "date": "04.06.2026",
+      "title": "Bazı Varlıkların Ekonomiye Kazandırılması Hakkında Genel Tebliğ (Seri No: 1) Taslağı Hazırlandı",
+      "summary": "7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 10 uncu maddesi ile 5520 sayılı Kurumlar Vergisi Kanununa eklenen geçici 19 uncu maddede; gerçek ve tüzel kişilerin yurt dışında bulunan",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18112",
+      "category": "TEBLİĞ"
+    },
+    {
+      "id": 18111,
+      "date": "04.06.2026",
+      "title": "26 Seri No.lu Kurumlar Vergisi Genel Tebliğ Taslağı Hazırlandı",
+      "summary": "2/4/2026 tarihli ve 7577 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanununun 2 nci ve 4 üncü maddeleri, 21/5/2026 tarihli ve 7582 sayılı Kanunun 7 nci, 8 inci ve 9 uncu maddeleri ile 5520 say",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18111",
+      "category": "KVK"
+    },
+    {
+      "id": 18115,
+      "date": "04.06.2026",
+      "title": "333 Seri No.lu Gelir Vergisi Genel Tebliğ Taslağı Hazırlandı",
+      "summary": "7582 sayılı Kanunun 4 üncü maddesiyle 193 sayılı Gelir Vergisi Kanununa eklenen mükerrer 20/D maddesinde yurt dışı kazanç ve iratlar için vergi istisnası uygulaması düzenlenmiştir. Konuya ilişkin açık",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18115",
+      "category": "GVK"
+    },
+    {
+      "id": 18113,
+      "date": "04.06.2026",
+      "title": "Nitelikli Hizmet Merkezlerinde İstihdam Edilen Nitelikli Hizmet Personelinin Ücretlerinde Gelir Vergisi İstisnası Uygulanmasına İlişkin 334 Seri No.lu Gelir Vergisi Genel Tebliğ Taslağı Hazırlandı",
+      "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 5 inci maddesiyle 193 sayılı Gelir Vergisi Kanununun 23 üncü maddesinin birinci fıkrasına eklenen (20) numaralı ben",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18113",
+      "category": "GVK"
+    },
+    {
+      "id": 18114,
+      "date": "04.06.2026",
+      "title": "Gelir Vergisi Genel Tebliği (Seri no: 326)’nde Değişiklik Yapılmasına Dair 335 seri no.lu Gelir Vergisi Genel Tebliğ Taslağı Hazırlandı",
+      "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 3 üncü maddesiyle 193 sayılı Gelir Vergisi Kanununun 17 nci maddesinde yapılan değişiklikle, çalışanlara bedelsiz v",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18114",
+      "category": "GVK"
+    },
+    {
+      "id": 18102,
+      "date": "04.06.2026",
+      "title": "7582 Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Resmi Gazete’de Yayımlandı",
+      "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun 04/06/2026 tarihli ve 33270 sayılı Resmi Gazetede yayımlanmıştır. 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18102",
+      "category": "GENEL"
+    },
+    {
+      "id": 18090,
+      "date": "02.06.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 3/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18090",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18073,
       "date": "01.06.2026",
@@ -66,62 +122,6 @@
       "summary": "199 sayılı Vergi Usul Kanunu Sirküleri ile; 26 Mayıs 2026 günü sonuna kadar verilmesi gereken Muhtasar ve Prim Hizmet, Konaklama Vergisi ve Damga Vergisi Beyannameleri ile 1 Haziran 2026 günü sonuna k",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18001",
       "category": "KDV"
-    },
-    {
-      "id": 17972,
-      "date": "13.05.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 14/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17972",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 17943,
-      "date": "11.05.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 12/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17943",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 17938,
-      "date": "11.05.2026",
-      "title": "Elektronik Defterlerin Oluşturulma ve İmzalanma Süresi ile Elektronik Defter ve Berat Dosyalarının Gelir İdaresi Başkanlığı Bilgi İşlem Sistemine Yüklenme Süresi Uzatıldı",
-      "summary": "11 Mayıs 2026 tarihli ve 198 Sıra No.lu Vergi Usul Kanunu Sirküleriyle, elektronik defter (e-Defter) uygulamasına dâhil olanlar tarafından 11 Mayıs 2026 (10 Mayıs 2026 tarihinin resmi tatile rastlamas",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17938",
-      "category": "GENEL"
-    },
-    {
-      "id": 17924,
-      "date": "08.05.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 9/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17924",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 17913,
-      "date": "08.05.2026",
-      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 593) Resmi Gazete’de Yayımlandı",
-      "summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No:593) ile; - Kayıtlı ekonominin desteklenmesi, mükelleflerin iş süreçlerinin kolaylaştırılması, düzenlenmesi zorunlu olan elektronik belgelerin tahsilat bilgile",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17913",
-      "category": "VUK"
-    },
-    {
-      "id": 17907,
-      "date": "07.05.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 8/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17907",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 17897,
-      "date": "06.05.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 7/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/17897",
-      "category": "CB-KARARI"
     }
   ]
 }
