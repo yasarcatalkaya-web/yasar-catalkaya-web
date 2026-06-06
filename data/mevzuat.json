@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-05T07:11:17.739Z",
+  "fetchedAt": "2026-06-06T06:32:01.526Z",
   "count": 15,
   "items": [
+    {
+      "id": 18127,
+      "date": "05.06.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 6/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18127",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18112,
       "date": "04.06.2026",
@@ -114,14 +122,6 @@
       "summary": "193 sayılı Gelir Vergisi Kanunu’nun 42’nci maddesi kapsamında değerlendirilen birden fazla takvim yılına sirayet eden inşaat ve onarım işlerinde, yüklenicilere yapılan hak ediş ödemeleri üzerinden gel",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18029",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18001,
-      "date": "15.05.2026",
-      "title": "Muhtasar ve Prim Hizmet, Konaklama Vergisi ve Damga Vergisi Beyannameleri ile Katma Değer Vergisi Beyannamelerinin Verilme Süreleri ve Bu Beyannameler Üzerine Tahakkuk Eden Vergilerin Ödeme Sürelerinin Uzatılmasına İlişkin Sirküler Yayınlandı",
-      "summary": "199 sayılı Vergi Usul Kanunu Sirküleri ile; 26 Mayıs 2026 günü sonuna kadar verilmesi gereken Muhtasar ve Prim Hizmet, Konaklama Vergisi ve Damga Vergisi Beyannameleri ile 1 Haziran 2026 günü sonuna k",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18001",
-      "category": "KDV"
     }
   ]
 }
