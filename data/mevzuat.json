@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-06T06:32:01.526Z",
+  "fetchedAt": "2026-06-07T07:06:58.871Z",
   "count": 15,
   "items": [
+    {
+      "id": 18130,
+      "date": "06.06.2026",
+      "title": "Küresel Asgari Tamamlayıcı Kurumlar Vergisi Bilgilerinin Değişimine İlişkin Çok Taraflı Yetkili Makam Anlaşması Onaylanmıştır",
+      "summary": "Türkiye Cumhuriyeti adına 20 Nisan 2026 tarihinde Ankara’da imzalanan “Küresel Asgari Tamamlayıcı Kurumlar Vergisi Bilgilerinin Değişimine İlişkin Çok Taraflı Yetkili Makam Anlaşması”nın onaylanmasına",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18130",
+      "category": "KVK"
+    },
     {
       "id": 18127,
       "date": "05.06.2026",
@@ -114,14 +122,6 @@
       "summary": "2025 yılı hesap dönemine ait gelir vergisi beyannamesi tasdik raporları ile 2025 yılı hesap dönemine ait gelir vergisi istisna, indirim ve uygulama tasdik raporlarının dijital vergi dairesi üzerinden",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18040",
       "category": "SİRKÜLER"
-    },
-    {
-      "id": 18029,
-      "date": "19.05.2026",
-      "title": "Yıllara Sari Nükleer Santral İnşaatı ve Onarım İşlerinde Uygulanan Tevkifat Oranının Düşürülmesine İlişkin Cumhurbaşkanı Kararı Resmî Gazete’de Yayımlandı",
-      "summary": "193 sayılı Gelir Vergisi Kanunu’nun 42’nci maddesi kapsamında değerlendirilen birden fazla takvim yılına sirayet eden inşaat ve onarım işlerinde, yüklenicilere yapılan hak ediş ödemeleri üzerinden gel",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18029",
-      "category": "CB-KARARI"
     }
   ]
 }
