@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-08T08:12:06.961Z",
+  "fetchedAt": "2026-06-09T06:52:02.049Z",
   "count": 15,
   "items": [
+    {
+      "id": 18142,
+      "date": "08.06.2026",
+      "title": "Elektronik Defterlerin Oluşturulma ve İmzalanma Süresi ile Elektronik Defter ve Berat Dosyalarının Gelir İdaresi Başkanlığı Bilgi İşlem Sistemine Yüklenme Süresi Uzatıldı",
+      "summary": "8 Haziran 2026 tarihli ve 202 Sıra No.lu Vergi Usul Kanunu Sirküleriyle, elektronik defter (e-Defter) uygulamasına dâhil olanlar tarafından 10 Haziran 2026 ve 15 Haziran 2026 (14 Haziran 2026 tarihini",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18142",
+      "category": "GENEL"
+    },
     {
       "id": 18133,
       "date": "08.06.2026",
@@ -114,14 +122,6 @@
       "summary": "22 Mayıs 2026 tarihli ve 201 sayılı Vergi Usul Kanunu Sirküleriyle; Adıyaman, Hatay, Kahramanmaraş, Malatya illeri ile Gaziantep ilinin İslahiye ve Nurdağı ilçelerindeki mükelleflerden mücbir sebep ha",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18057",
       "category": "GENEL"
-    },
-    {
-      "id": 18043,
-      "date": "21.05.2026",
-      "title": "531 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin 7 nci Maddesinin (1) Numaralı Fıkrasının (b) Bendi Uyarınca 2026 Yılı Mayıs Ayı Sonuna Kadar Verilmesi Gereken Teminatların Verilme Süresinin Uzatılmasına İlişkin Sirküler Yayımlandı",
-      "summary": "531 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinin 7 nci maddesinin (1) numaralı fıkrasının (b) bendi uyarınca, Mezkur Tebliğ kapsamında 2026 yılı Mayıs ayı sonuna kadar verilmesi gereken teminatların,",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18043",
-      "category": "VUK"
     }
   ]
 }
