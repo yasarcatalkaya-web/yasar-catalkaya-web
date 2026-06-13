@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-12T07:25:00.331Z",
+  "fetchedAt": "2026-06-13T07:00:05.578Z",
   "count": 15,
   "items": [
+    {
+      "id": 18194,
+      "date": "13.06.2026",
+      "title": "Teminatsız Tecil Tutarının 10 milyon TL Olarak Belirlenmesine İlişkin 12/6/2026 Tarihli ve 11414 Sayılı Cumhurbaşkanı Kararı 13/6/2026 Tarihli ve 33279 Sayılı Resmi Gazete’de Yayımlandı",
+      "summary": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesinin ikinci fıkrasında yer alan teminatsız tecil tutarı, 13/6/2026 tarihli ve 33279 sayılı Resmi Gazete’de yayımlanan 12/6/20",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18194",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18142,
       "date": "08.06.2026",
@@ -114,14 +122,6 @@
       "summary": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 25) 24/05/2026 tarihli ve 33263 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıkl",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18065",
       "category": "KVK"
-    },
-    {
-      "id": 18057,
-      "date": "22.05.2026",
-      "title": "Mücbir Sebep Hali 30/11/2025 Tarihinde Sona Eren Mükelleflerden e-Defter Uygulamasına Dâhil Olanlara İlişkin Olarak Elektronik Defterlerin Oluşturulma ve İmzalanma Süresi ile Elektronik Defter ve Berat Dosyalarının Yüklenme Süresi Uzatıldı",
-      "summary": "22 Mayıs 2026 tarihli ve 201 sayılı Vergi Usul Kanunu Sirküleriyle; Adıyaman, Hatay, Kahramanmaraş, Malatya illeri ile Gaziantep ilinin İslahiye ve Nurdağı ilçelerindeki mükelleflerden mücbir sebep ha",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18057",
-      "category": "GENEL"
     }
   ]
 }
