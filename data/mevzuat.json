@@ -1,8 +1,40 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-15T09:25:21.897Z",
+  "fetchedAt": "2026-06-16T08:48:11.812Z",
   "count": 15,
   "items": [
+    {
+      "id": 18205,
+      "date": "16.06.2026",
+      "title": "Vergi Dairesine Olan Borçların Düşük Oranlı Tecil Faizi ile Taksitlendirilmesi Rehberi ve İnfografik Yayımlandı",
+      "summary": "7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunla, 6183 sayılı Kanunun 48 inci maddesinde yer alan tecil hükümlerinde önemli değişiklikler yapılmıştır. Ayrıca, 13/6/2026 tarihli ve 33279",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18205",
+      "category": "REHBER"
+    },
+    {
+      "id": 18202,
+      "date": "16.06.2026",
+      "title": "Tahsilat Genel Tebliği (Seri:B Sıra No:20) Resmi Gazete’de Yayımlandı",
+      "summary": "Seri:B Sıra No:20 Tahsilat Genel Tebliği ile 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesinde düzenlenen tecil ve taksitlendirme müessesesi kapsamında borçluların belirl",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18202",
+      "category": "TEBLİĞ"
+    },
+    {
+      "id": 18203,
+      "date": "16.06.2026",
+      "title": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 58) Resmi Gazete’de Yayımlandı",
+      "summary": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 58) 16/06/2026 tarihli ve 33282 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklay",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18203",
+      "category": "KDV"
+    },
+    {
+      "id": 18200,
+      "date": "15.06.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 16/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18200",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18194,
       "date": "13.06.2026",
@@ -90,38 +122,6 @@
       "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun 04/06/2026 tarihli ve 33270 sayılı Resmi Gazetede yayımlanmıştır. 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18102",
       "category": "GENEL"
-    },
-    {
-      "id": 18090,
-      "date": "02.06.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 3/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18090",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18073,
-      "date": "01.06.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 2/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18073",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18066,
-      "date": "26.05.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 27/5/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18066",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18065,
-      "date": "24.05.2026",
-      "title": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 25) Resmi Gazete’de Yayımlandı",
-      "summary": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 25) 24/05/2026 tarihli ve 33263 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıkl",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18065",
-      "category": "KVK"
     }
   ]
 }
