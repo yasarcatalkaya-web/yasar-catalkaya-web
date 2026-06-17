@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-16T08:48:11.812Z",
+  "fetchedAt": "2026-06-17T08:30:16.919Z",
   "count": 15,
   "items": [
+    {
+      "id": 18208,
+      "date": "16.06.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 17/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18208",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18205,
       "date": "16.06.2026",
@@ -114,14 +122,6 @@
       "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 3 üncü maddesiyle 193 sayılı Gelir Vergisi Kanununun 17 nci maddesinde yapılan değişiklikle, çalışanlara bedelsiz v",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18114",
       "category": "GVK"
-    },
-    {
-      "id": 18102,
-      "date": "04.06.2026",
-      "title": "7582 Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Resmi Gazete’de Yayımlandı",
-      "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun 04/06/2026 tarihli ve 33270 sayılı Resmi Gazetede yayımlanmıştır. 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18102",
-      "category": "GENEL"
     }
   ]
 }
