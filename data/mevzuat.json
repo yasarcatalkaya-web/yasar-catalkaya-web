@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-17T08:30:16.919Z",
+  "fetchedAt": "2026-06-18T08:10:19.433Z",
   "count": 15,
   "items": [
+    {
+      "id": 18222,
+      "date": "17.06.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 18/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18222",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18208,
       "date": "16.06.2026",
@@ -113,14 +121,6 @@
       "title": "Nitelikli Hizmet Merkezlerinde İstihdam Edilen Nitelikli Hizmet Personelinin Ücretlerinde Gelir Vergisi İstisnası Uygulanmasına İlişkin 334 Seri No.lu Gelir Vergisi Genel Tebliğ Taslağı Hazırlandı",
       "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 5 inci maddesiyle 193 sayılı Gelir Vergisi Kanununun 23 üncü maddesinin birinci fıkrasına eklenen (20) numaralı ben",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18113",
-      "category": "GVK"
-    },
-    {
-      "id": 18114,
-      "date": "04.06.2026",
-      "title": "Gelir Vergisi Genel Tebliği (Seri no: 326)’nde Değişiklik Yapılmasına Dair 335 seri no.lu Gelir Vergisi Genel Tebliğ Taslağı Hazırlandı",
-      "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 3 üncü maddesiyle 193 sayılı Gelir Vergisi Kanununun 17 nci maddesinde yapılan değişiklikle, çalışanlara bedelsiz v",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18114",
       "category": "GVK"
     }
   ]
