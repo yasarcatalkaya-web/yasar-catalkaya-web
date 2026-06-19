@@ -1,8 +1,24 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-18T08:10:19.433Z",
+  "fetchedAt": "2026-06-19T08:33:41.276Z",
   "count": 15,
   "items": [
+    {
+      "id": 18242,
+      "date": "19.06.2026",
+      "title": "Konaklama Vergisi Rehberi Yayımlandı",
+      "summary": "Konaklama vergisi, 6802 Sayılı Gider Vergileri Kanununun 34. maddesinde düzenlenmiş olup, 11263 Sayılı Cumhurbaşkanı Kararı ile konaklama vergisi oranı 31/12/2026 tarihine kadar %2’den %1’e düşürülmüş",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18242",
+      "category": "REHBER"
+    },
+    {
+      "id": 18240,
+      "date": "18.06.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 19/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18240",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18222,
       "date": "17.06.2026",
@@ -106,22 +122,6 @@
       "summary": "2/4/2026 tarihli ve 7577 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanununun 2 nci ve 4 üncü maddeleri, 21/5/2026 tarihli ve 7582 sayılı Kanunun 7 nci, 8 inci ve 9 uncu maddeleri ile 5520 say",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18111",
       "category": "KVK"
-    },
-    {
-      "id": 18115,
-      "date": "04.06.2026",
-      "title": "333 Seri No.lu Gelir Vergisi Genel Tebliğ Taslağı Hazırlandı",
-      "summary": "7582 sayılı Kanunun 4 üncü maddesiyle 193 sayılı Gelir Vergisi Kanununa eklenen mükerrer 20/D maddesinde yurt dışı kazanç ve iratlar için vergi istisnası uygulaması düzenlenmiştir. Konuya ilişkin açık",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18115",
-      "category": "GVK"
-    },
-    {
-      "id": 18113,
-      "date": "04.06.2026",
-      "title": "Nitelikli Hizmet Merkezlerinde İstihdam Edilen Nitelikli Hizmet Personelinin Ücretlerinde Gelir Vergisi İstisnası Uygulanmasına İlişkin 334 Seri No.lu Gelir Vergisi Genel Tebliğ Taslağı Hazırlandı",
-      "summary": "21/5/2026 tarihli ve 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 5 inci maddesiyle 193 sayılı Gelir Vergisi Kanununun 23 üncü maddesinin birinci fıkrasına eklenen (20) numaralı ben",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18113",
-      "category": "GVK"
     }
   ]
 }
