@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-19T08:33:41.276Z",
+  "fetchedAt": "2026-06-20T07:02:21.355Z",
   "count": 15,
   "items": [
+    {
+      "id": 18247,
+      "date": "20.06.2026",
+      "title": "19/6/2026 Tarihli ve 11444 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’ de Yayımlandı",
+      "summary": "20/6/2026 tarihli ve 33286 sayılı Resmi Gazete’de yayımlanan 11444 sayılı Cumhurbaşkanı Kararının Eki Karar ile 2006/10731 sayılı Bakanlar Kurulu Kararının Eki Kararda yapılan değişiklik ile; Devlet t",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18247",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18242,
       "date": "19.06.2026",
@@ -114,14 +122,6 @@
       "summary": "7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 10 uncu maddesi ile 5520 sayılı Kurumlar Vergisi Kanununa eklenen geçici 19 uncu maddede; gerçek ve tüzel kişilerin yurt dışında bulunan",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18112",
       "category": "TEBLİĞ"
-    },
-    {
-      "id": 18111,
-      "date": "04.06.2026",
-      "title": "26 Seri No.lu Kurumlar Vergisi Genel Tebliğ Taslağı Hazırlandı",
-      "summary": "2/4/2026 tarihli ve 7577 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanununun 2 nci ve 4 üncü maddeleri, 21/5/2026 tarihli ve 7582 sayılı Kanunun 7 nci, 8 inci ve 9 uncu maddeleri ile 5520 say",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18111",
-      "category": "KVK"
     }
   ]
 }
