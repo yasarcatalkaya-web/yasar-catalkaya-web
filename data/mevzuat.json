@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-21T08:02:23.511Z",
+  "fetchedAt": "2026-06-22T09:12:45.806Z",
   "count": 15,
   "items": [
+    {
+      "id": 18251,
+      "date": "22.06.2026",
+      "title": "Yeminli Mali Müşavirlik (YMM) Tasdik Raporlarının İbraz Süresinin Uzatılmasına İlişkin Sirküler Yayımlandı",
+      "summary": "2025 yılı hesap dönemine ait kurumlar vergisi beyannamesi tasdik raporları ile 2025 yılı hesap dönemine ait kurumlar vergisi istisna, indirim ve uygulama tasdik raporlarının dijital vergi dairesi üzer",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18251",
+      "category": "SİRKÜLER"
+    },
     {
       "id": 18247,
       "date": "20.06.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 6/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18127",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18112,
-      "date": "04.06.2026",
-      "title": "Bazı Varlıkların Ekonomiye Kazandırılması Hakkında Genel Tebliğ (Seri No: 1) Taslağı Hazırlandı",
-      "summary": "7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 10 uncu maddesi ile 5520 sayılı Kurumlar Vergisi Kanununa eklenen geçici 19 uncu maddede; gerçek ve tüzel kişilerin yurt dışında bulunan",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18112",
-      "category": "TEBLİĞ"
     }
   ]
 }
