@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-06-29T08:15:30.417Z",
+  "fetchedAt": "2026-06-30T06:57:36.422Z",
   "count": 15,
   "items": [
+    {
+      "id": 18322,
+      "date": "29.06.2026",
+      "title": "203 Sıra Nolu Vergi Usul Kanunu Sirküleri Yayımlandı",
+      "summary": "203 Sıra Nolu Vergi Usul Kanunu Sirküleri ile; 30 Haziran 2026 günü sonuna kadar verilmesi gereken 2024 hesap dönemine ilişkin Küresel Asgari Tamamlayıcı Kurumlar Vergisi Beyannamelerinin verilme süre",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18322",
+      "category": "VUK"
+    },
     {
       "id": 18251,
       "date": "22.06.2026",
@@ -114,14 +122,6 @@
       "summary": "Türkiye Cumhuriyeti adına 20 Nisan 2026 tarihinde Ankara’da imzalanan “Küresel Asgari Tamamlayıcı Kurumlar Vergisi Bilgilerinin Değişimine İlişkin Çok Taraflı Yetkili Makam Anlaşması”nın onaylanmasına",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18130",
       "category": "KVK"
-    },
-    {
-      "id": 18127,
-      "date": "05.06.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 6/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18127",
-      "category": "CB-KARARI"
     }
   ]
 }
