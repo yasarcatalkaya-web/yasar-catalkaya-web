@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-01T07:14:02.392Z",
+  "fetchedAt": "2026-07-02T06:42:39.225Z",
   "count": 15,
   "items": [
+    {
+      "id": 18345,
+      "date": "01.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 2/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18345",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18335,
       "date": "01.07.2026",
@@ -114,14 +122,6 @@
       "summary": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesinin ikinci fıkrasında yer alan teminatsız tecil tutarı, 13/6/2026 tarihli ve 33279 sayılı Resmi Gazete’de yayımlanan 12/6/20",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18194",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18142,
-      "date": "08.06.2026",
-      "title": "Elektronik Defterlerin Oluşturulma ve İmzalanma Süresi ile Elektronik Defter ve Berat Dosyalarının Gelir İdaresi Başkanlığı Bilgi İşlem Sistemine Yüklenme Süresi Uzatıldı",
-      "summary": "8 Haziran 2026 tarihli ve 202 Sıra No.lu Vergi Usul Kanunu Sirküleriyle, elektronik defter (e-Defter) uygulamasına dâhil olanlar tarafından 10 Haziran 2026 ve 15 Haziran 2026 (14 Haziran 2026 tarihini",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18142",
-      "category": "GENEL"
     }
   ]
 }
