@@ -1,8 +1,48 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-04T06:22:27.538Z",
+  "fetchedAt": "2026-07-05T06:42:18.242Z",
   "count": 15,
   "items": [
+    {
+      "id": 18383,
+      "date": "04.07.2026",
+      "title": "Bazı Varlıkların Ekonomiye Kazandırılması Hakkında Genel Tebliğ (Seri No: 1) Resmi Gazete’de Yayımlandı",
+      "summary": "Bazı Varlıkların Ekonomiye Kazandırılması Hakkında Genel Tebliğ (Seri No: 1) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı B",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18383",
+      "category": "TEBLİĞ"
+    },
+    {
+      "id": 18382,
+      "date": "04.07.2026",
+      "title": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 26) Resmi Gazete’de Yayımlandı",
+      "summary": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 26) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıkl",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18382",
+      "category": "KVK"
+    },
+    {
+      "id": 18381,
+      "date": "04.07.2026",
+      "title": "Gelir Vergisi Genel Tebliği (Seri No: 326)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 335) Resmi Gazete’de Yayımlandı",
+      "summary": "Gelir Vergisi Genel Tebliği (Seri No: 326)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 335) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıkl",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18381",
+      "category": "GVK"
+    },
+    {
+      "id": 18380,
+      "date": "04.07.2026",
+      "title": "Gelir Vergisi Genel Tebliği (Seri No: 334) Resmi Gazete’de Yayımlandı",
+      "summary": "Gelir Vergisi Genel Tebliği (Seri No: 334) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayını",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18380",
+      "category": "GVK"
+    },
+    {
+      "id": 18379,
+      "date": "04.07.2026",
+      "title": "Gelir Vergisi Genel Tebliği (Seri No: 333) Resmi Gazete’de Yayımlandı",
+      "summary": "Gelir Vergisi Genel Tebliği (Seri No: 333) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayını",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18379",
+      "category": "GVK"
+    },
     {
       "id": 18363,
       "date": "03.07.2026",
@@ -82,46 +122,6 @@
       "summary": "Konaklama vergisi, 6802 Sayılı Gider Vergileri Kanununun 34. maddesinde düzenlenmiş olup, 11263 Sayılı Cumhurbaşkanı Kararı ile konaklama vergisi oranı 31/12/2026 tarihine kadar %2’den %1’e düşürülmüş",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18242",
       "category": "REHBER"
-    },
-    {
-      "id": 18240,
-      "date": "18.06.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 19/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18240",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18222,
-      "date": "17.06.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 18/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18222",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18208,
-      "date": "16.06.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 17/6/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18208",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18205,
-      "date": "16.06.2026",
-      "title": "Vergi Dairesine Olan Borçların Düşük Oranlı Tecil Faizi ile Taksitlendirilmesi Rehberi ve İnfografik Yayımlandı",
-      "summary": "7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunla, 6183 sayılı Kanunun 48 inci maddesinde yer alan tecil hükümlerinde önemli değişiklikler yapılmıştır. Ayrıca, 13/6/2026 tarihli ve 33279",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18205",
-      "category": "REHBER"
-    },
-    {
-      "id": 18202,
-      "date": "16.06.2026",
-      "title": "Tahsilat Genel Tebliği (Seri:B Sıra No:20) Resmi Gazete’de Yayımlandı",
-      "summary": "Seri:B Sıra No:20 Tahsilat Genel Tebliği ile 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesinde düzenlenen tecil ve taksitlendirme müessesesi kapsamında borçluların belirl",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18202",
-      "category": "TEBLİĞ"
     }
   ]
 }
