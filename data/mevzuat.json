@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-06T07:15:12.106Z",
+  "fetchedAt": "2026-07-07T06:49:02.101Z",
   "count": 15,
   "items": [
+    {
+      "id": 18388,
+      "date": "06.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 7/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18388",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18383,
       "date": "04.07.2026",
@@ -114,14 +122,6 @@
       "summary": "20/6/2026 tarihli ve 33286 sayılı Resmi Gazete’de yayımlanan 11444 sayılı Cumhurbaşkanı Kararının Eki Karar ile 2006/10731 sayılı Bakanlar Kurulu Kararının Eki Kararda yapılan değişiklik ile; Devlet t",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18247",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18242,
-      "date": "19.06.2026",
-      "title": "Konaklama Vergisi Rehberi Yayımlandı",
-      "summary": "Konaklama vergisi, 6802 Sayılı Gider Vergileri Kanununun 34. maddesinde düzenlenmiş olup, 11263 Sayılı Cumhurbaşkanı Kararı ile konaklama vergisi oranı 31/12/2026 tarihine kadar %2’den %1’e düşürülmüş",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18242",
-      "category": "REHBER"
     }
   ]
 }
