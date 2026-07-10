@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-09T06:47:16.794Z",
+  "fetchedAt": "2026-07-10T06:48:05.543Z",
   "count": 15,
   "items": [
+    {
+      "id": 18416,
+      "date": "09.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 10/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18416",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18395,
       "date": "07.07.2026",
@@ -114,14 +122,6 @@
       "summary": "203 Sıra Nolu Vergi Usul Kanunu Sirküleri ile; 30 Haziran 2026 günü sonuna kadar verilmesi gereken 2024 hesap dönemine ilişkin Küresel Asgari Tamamlayıcı Kurumlar Vergisi Beyannamelerinin verilme süre",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18322",
       "category": "VUK"
-    },
-    {
-      "id": 18251,
-      "date": "22.06.2026",
-      "title": "Yeminli Mali Müşavirlik (YMM) Tasdik Raporlarının İbraz Süresinin Uzatılmasına İlişkin Sirküler Yayımlandı",
-      "summary": "2025 yılı hesap dönemine ait kurumlar vergisi beyannamesi tasdik raporları ile 2025 yılı hesap dönemine ait kurumlar vergisi istisna, indirim ve uygulama tasdik raporlarının dijital vergi dairesi üzer",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18251",
-      "category": "SİRKÜLER"
     }
   ]
 }
