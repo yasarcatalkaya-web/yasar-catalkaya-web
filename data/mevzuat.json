@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-10T06:48:05.543Z",
+  "fetchedAt": "2026-07-11T05:42:48.996Z",
   "count": 15,
   "items": [
+    {
+      "id": 18426,
+      "date": "10.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 11/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18426",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18416,
       "date": "09.07.2026",
@@ -114,14 +122,6 @@
       "summary": "2025 yılında elde edilen gelir unsurlarına ilişkin Gelir Vergisi 2. taksit ödeme dönemi başladı. Son gün 31 Temmuz 2026. Ödemelerinizi; Dijital Vergi Dairesinden (dijital.gib.gov.tr) veya GİB Mobil uy",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18334",
       "category": "GVK"
-    },
-    {
-      "id": 18322,
-      "date": "29.06.2026",
-      "title": "203 Sıra Nolu Vergi Usul Kanunu Sirküleri Yayımlandı",
-      "summary": "203 Sıra Nolu Vergi Usul Kanunu Sirküleri ile; 30 Haziran 2026 günü sonuna kadar verilmesi gereken 2024 hesap dönemine ilişkin Küresel Asgari Tamamlayıcı Kurumlar Vergisi Beyannamelerinin verilme süre",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18322",
-      "category": "VUK"
     }
   ]
 }
