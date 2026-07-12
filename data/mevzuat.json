@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-11T05:42:48.996Z",
+  "fetchedAt": "2026-07-12T06:06:06.580Z",
   "count": 15,
   "items": [
+    {
+      "id": 18434,
+      "date": "11.07.2026",
+      "title": "11511 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı",
+      "summary": "11/7/2026 tarihli ve 33307 sayılı Resmi Gazete’de yayımlanan 11511 sayılı Cumhurbaşkanı Kararının Eki Karar ile 1/1/2024 tarihinden itibaren başlayan hesap dönemleri kazançlarına uygulanmak üzere Nite",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18434",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18426,
       "date": "10.07.2026",
@@ -114,14 +122,6 @@
       "summary": "2026 yılına ait Motorlu Taşıtlar Vergisinin (MTV) 2. taksit ödeme dönemi 1 Temmuz 2026 tarihinde başladı. Son gün 31 Temmuz 2026. Dijital Vergi Dairesinden (dijital.gib.gov.tr) MTV Ödeme alanına şifre",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18335",
       "category": "GENEL"
-    },
-    {
-      "id": 18334,
-      "date": "01.07.2026",
-      "title": "Gelir Vergisi 2. Taksit Ödemesi İçin Son Gün 31 Temmuz 2026",
-      "summary": "2025 yılında elde edilen gelir unsurlarına ilişkin Gelir Vergisi 2. taksit ödeme dönemi başladı. Son gün 31 Temmuz 2026. Ödemelerinizi; Dijital Vergi Dairesinden (dijital.gib.gov.tr) veya GİB Mobil uy",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18334",
-      "category": "GVK"
     }
   ]
 }
