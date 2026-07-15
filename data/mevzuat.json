@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-14T05:33:03.644Z",
+  "fetchedAt": "2026-07-15T05:33:53.082Z",
   "count": 15,
   "items": [
+    {
+      "id": 18454,
+      "date": "14.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 15/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18454",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18434,
       "date": "11.07.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 2/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18345",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18335,
-      "date": "01.07.2026",
-      "title": "Motorlu Taşıtlar Vergisi 2. Taksit Ödeme Dönemi Başladı",
-      "summary": "2026 yılına ait Motorlu Taşıtlar Vergisinin (MTV) 2. taksit ödeme dönemi 1 Temmuz 2026 tarihinde başladı. Son gün 31 Temmuz 2026. Dijital Vergi Dairesinden (dijital.gib.gov.tr) MTV Ödeme alanına şifre",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18335",
-      "category": "GENEL"
     }
   ]
 }
