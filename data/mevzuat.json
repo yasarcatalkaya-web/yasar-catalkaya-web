@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-17T05:43:59.136Z",
+  "fetchedAt": "2026-07-18T05:28:35.766Z",
   "count": 15,
   "items": [
+    {
+      "id": 18484,
+      "date": "17.07.2026",
+      "title": "Motorlu Taşıtlar Vergisi 2. Taksit Ödeme Dönemi Devam Ediyor",
+      "summary": "2026 yılına ait Motorlu Taşıtlar Vergisinin (MTV) 2. taksit ödeme dönemi 1 Temmuz 2026 tarihinde başladı. Son gün 31 Temmuz 2026. Dijital Vergi Dairesinden (dijital.gib.gov.tr) MTV Ödeme alanına şifre",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18484",
+      "category": "GENEL"
+    },
     {
       "id": 18479,
       "date": "16.07.2026",
@@ -113,14 +121,6 @@
       "title": "3/7/2026 Tarihli ve 11489 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’ de Yayımlandı",
       "summary": "11489 sayılı Cumhurbaşkanı Kararı ile sigaralar için özel tüketim vergisi oranları ile asgari maktu ve maktu vergi tutarları yeniden belirlenmiştir. Karar ile, sigaraların ÖTV oranlarında indirim yapı",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18363",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18362,
-      "date": "03.07.2026",
-      "title": "3/7/2026 Tarihli ve 11488 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’ de Yayımlandı",
-      "summary": "4760 sayılı Özel Tüketim Vergisi (ÖTV) Kanununa ekli (I) sayılı listede yer alan benzin, motorin, LPG Otogaz ve LPG Tüpgaz ile benzeri malların ÖTV tutarlarının, kamuoyunda bilinen adıyla Eşel-Mobil s",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18362",
       "category": "CB-KARARI"
     }
   ]
