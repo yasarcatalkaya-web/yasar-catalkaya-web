@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-20T06:19:44.902Z",
+  "fetchedAt": "2026-07-21T05:53:02.523Z",
   "count": 15,
   "items": [
+    {
+      "id": 18495,
+      "date": "20.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 21/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18495",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18484,
       "date": "17.07.2026",
@@ -114,14 +122,6 @@
       "summary": "Gelir Vergisi Genel Tebliği (Seri No: 333) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayını",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18379",
       "category": "GVK"
-    },
-    {
-      "id": 18363,
-      "date": "03.07.2026",
-      "title": "3/7/2026 Tarihli ve 11489 Sayılı Cumhurbaşkanı Kararı Resmi Gazete’ de Yayımlandı",
-      "summary": "11489 sayılı Cumhurbaşkanı Kararı ile sigaralar için özel tüketim vergisi oranları ile asgari maktu ve maktu vergi tutarları yeniden belirlenmiştir. Karar ile, sigaraların ÖTV oranlarında indirim yapı",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18363",
-      "category": "CB-KARARI"
     }
   ]
 }
