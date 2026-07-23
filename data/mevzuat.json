@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-22T05:52:13.816Z",
+  "fetchedAt": "2026-07-23T05:56:53.792Z",
   "count": 15,
   "items": [
+    {
+      "id": 18517,
+      "date": "22.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 23/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18517",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18495,
       "date": "20.07.2026",
@@ -113,14 +121,6 @@
       "title": "Gelir Vergisi Genel Tebliği (Seri No: 334) Resmi Gazete’de Yayımlandı",
       "summary": "Gelir Vergisi Genel Tebliği (Seri No: 334) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayını",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18380",
-      "category": "GVK"
-    },
-    {
-      "id": 18379,
-      "date": "04.07.2026",
-      "title": "Gelir Vergisi Genel Tebliği (Seri No: 333) Resmi Gazete’de Yayımlandı",
-      "summary": "Gelir Vergisi Genel Tebliği (Seri No: 333) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayını",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18379",
       "category": "GVK"
     }
   ]
