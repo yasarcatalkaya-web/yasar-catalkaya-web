@@ -1,8 +1,24 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-24T05:51:37.548Z",
+  "fetchedAt": "2026-07-25T05:44:15.739Z",
   "count": 15,
   "items": [
+    {
+      "id": 18533,
+      "date": "24.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 25/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18533",
+      "category": "CB-KARARI"
+    },
+    {
+      "id": 18529,
+      "date": "24.07.2026",
+      "title": "5520 Sayılı Kurumlar Vergisi Kanunu 73 Nolu Sirküler Yayımlandı",
+      "summary": "5520 Sayılı Kurumlar Vergisi Kanunu 73 Nolu Sirküleri ile 2026 yılı ikinci geçici vergi döneminde uygulanacak yeniden değerleme oranı % 11,51 (yüzde onbir virgül ellibir ) olarak tespit edilmiştir. Sö",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18529",
+      "category": "KVK"
+    },
     {
       "id": 18517,
       "date": "22.07.2026",
@@ -106,22 +122,6 @@
       "summary": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 26) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıkl",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18382",
       "category": "KVK"
-    },
-    {
-      "id": 18381,
-      "date": "04.07.2026",
-      "title": "Gelir Vergisi Genel Tebliği (Seri No: 326)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 335) Resmi Gazete’de Yayımlandı",
-      "summary": "Gelir Vergisi Genel Tebliği (Seri No: 326)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 335) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıkl",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18381",
-      "category": "GVK"
-    },
-    {
-      "id": 18380,
-      "date": "04.07.2026",
-      "title": "Gelir Vergisi Genel Tebliği (Seri No: 334) Resmi Gazete’de Yayımlandı",
-      "summary": "Gelir Vergisi Genel Tebliği (Seri No: 334) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayını",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18380",
-      "category": "GVK"
     }
   ]
 }
