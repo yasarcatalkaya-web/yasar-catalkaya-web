@@ -1,8 +1,32 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-27T06:32:23.792Z",
+  "fetchedAt": "2026-07-28T05:48:14.578Z",
   "count": 15,
   "items": [
+    {
+      "id": 18542,
+      "date": "27.07.2026",
+      "title": "Tarhiyat Öncesi ve Tarhiyat Sonrası Uzlaşma Broşürü Yayımlandı",
+      "summary": "Uzlaşma, mükelleflerin ikmalen, re’sen ve idarece tarh edilecek/edilen vergilere ilişkin kesilecek/kesilen vergi ziyaı cezaları ile belirli bir tutarı aşan usulsüzlük ve özel usulsüzlük cezaları konus",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18542",
+      "category": "GENEL"
+    },
+    {
+      "id": 18540,
+      "date": "27.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 28/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18540",
+      "category": "CB-KARARI"
+    },
+    {
+      "id": 18539,
+      "date": "27.07.2026",
+      "title": "3065 Sayılı Katma Değer Vergisi Kanunu 71 Nolu Sirküler Yayımlandı",
+      "summary": "3065 sayılı Katma Değer Vergisi Kanunu 71 Nolu Sirküleri ile 7846 sayılı Cumhurbaşkanı Kararı kapsamında indirimi kabul edilmeyen katma değer vergisinin indirim konusu yapılıp yapılmadığının tespitine",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18539",
+      "category": "KDV"
+    },
     {
       "id": 18533,
       "date": "24.07.2026",
@@ -15,7 +39,7 @@
       "id": 18529,
       "date": "24.07.2026",
       "title": "5520 Sayılı Kurumlar Vergisi Kanunu 73 Nolu Sirküler Yayımlandı",
-      "summary": "5520 Sayılı Kurumlar Vergisi Kanunu 73 Nolu Sirküleri ile 2026 yılı ikinci geçici vergi döneminde uygulanacak yeniden değerleme oranı % 11,51 (yüzde onbir virgül ellibir ) olarak tespit edilmiştir. Sö",
+      "summary": "5520 sayılı Kurumlar Vergisi Kanunu 73 Nolu Sirküleri ile 2026 yılı ikinci geçici vergi döneminde uygulanacak yeniden değerleme oranı % 11,51 (yüzde onbir virgül ellibir) olarak tespit edilmiştir. Söz",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18529",
       "category": "KVK"
     },
@@ -98,30 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 8/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18395",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18388,
-      "date": "06.07.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 7/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18388",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18383,
-      "date": "04.07.2026",
-      "title": "Bazı Varlıkların Ekonomiye Kazandırılması Hakkında Genel Tebliğ (Seri No: 1) Resmi Gazete’de Yayımlandı",
-      "summary": "Bazı Varlıkların Ekonomiye Kazandırılması Hakkında Genel Tebliğ (Seri No: 1) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı B",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18383",
-      "category": "TEBLİĞ"
-    },
-    {
-      "id": 18382,
-      "date": "04.07.2026",
-      "title": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 26) Resmi Gazete’de Yayımlandı",
-      "summary": "Kurumlar Vergisi Genel Tebliği (Seri No: 1)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 26) 04/07/2026 tarihli ve 33300 sayılı Resmi Gazete’de yayımlanmıştır. Söz konusu Tebliğe ulaşmak için tıkl",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18382",
-      "category": "KVK"
     }
   ]
 }
