@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-28T05:48:14.578Z",
+  "fetchedAt": "2026-07-29T05:54:05.548Z",
   "count": 15,
   "items": [
+    {
+      "id": 18551,
+      "date": "28.07.2026",
+      "title": "Yurt Dışında ve Yurt İçinde Bulunan Bazı Varlıkların Ekonomiye Kazandırılması Rehberi ile İnfografikler Yayımlandı",
+      "summary": "7582 sayılı Kanunun 10 uncu maddesiyle 5520 sayılı Kurumlar Vergisi Kanununa eklenen geçici 19 uncu madde hükümlerinin uygulanmasına ilişkin usul ve esaslar, 1 Seri No.lu Bazı Varlıkların Ekonomiye Ka",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18551",
+      "category": "REHBER"
+    },
     {
       "id": 18542,
       "date": "27.07.2026",
@@ -113,14 +121,6 @@
       "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 10/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18416",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18395,
-      "date": "07.07.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 8/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18395",
       "category": "CB-KARARI"
     }
   ]
