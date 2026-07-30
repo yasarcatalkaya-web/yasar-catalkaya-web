@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-29T05:54:05.548Z",
+  "fetchedAt": "2026-07-30T05:42:41.079Z",
   "count": 15,
   "items": [
+    {
+      "id": 18569,
+      "date": "29.07.2026",
+      "title": "7846 Sayılı Cumhurbaşkanı Kararı Kapsamında İndirimi Kabul Edilmeyen Katma Değer Vergisi Bildirimine İlişkin Duyuru",
+      "summary": "27/7/2026 tarihli ve 71 numaralı Katma Değer Vergisi Sirküleri ile 7846 sayılı Cumhurbaşkanı Kararı kapsamında indirimi kabul edilmeyen KDV'nin indirim konusu yapılıp yapılmadığının tespitine ilişkin",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18569",
+      "category": "KDV"
+    },
     {
       "id": 18551,
       "date": "28.07.2026",
@@ -113,14 +121,6 @@
       "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 11/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18426",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18416,
-      "date": "09.07.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 10/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18416",
       "category": "CB-KARARI"
     }
   ]
