@@ -1,8 +1,32 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-30T05:42:41.079Z",
+  "fetchedAt": "2026-07-31T06:15:27.291Z",
   "count": 15,
   "items": [
+    {
+      "id": 18572,
+      "date": "30.07.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 31/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18572",
+      "category": "CB-KARARI"
+    },
+    {
+      "id": 18484,
+      "date": "30.07.2026",
+      "title": "Motorlu Taşıtlar Vergisi 2. Taksit Ödeme Dönemi İçin Son Gün 31 Temmuz 2026",
+      "summary": "2026 yılına ait Motorlu Taşıtlar Vergisinin (MTV) 2. taksit ödeme dönemi 1 Temmuz 2026 tarihinde başladı. Son gün 31 Temmuz 2026. Dijital Vergi Dairesinden (dijital.gib.gov.tr) MTV Ödeme alanına şifre",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18484",
+      "category": "GENEL"
+    },
+    {
+      "id": 18476,
+      "date": "30.07.2026",
+      "title": "Gelir Vergisi 2. Taksit Ödeme Dönemi İçin Son Gün 31 Temmuz 2026",
+      "summary": "2025 yılında elde edilen gelir unsurlarına ilişkin Gelir Vergisi 2. taksit ödeme dönemi başladı. Son gün 31 Temmuz 2026. Ödemelerinizi; Dijital Vergi Dairesinden (dijital.gib.gov.tr) veya GİB Mobil uy",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18476",
+      "category": "GVK"
+    },
     {
       "id": 18569,
       "date": "29.07.2026",
@@ -76,28 +100,12 @@
       "category": "CB-KARARI"
     },
     {
-      "id": 18484,
-      "date": "17.07.2026",
-      "title": "Motorlu Taşıtlar Vergisi 2. Taksit Ödeme Dönemi Devam Ediyor",
-      "summary": "2026 yılına ait Motorlu Taşıtlar Vergisinin (MTV) 2. taksit ödeme dönemi 1 Temmuz 2026 tarihinde başladı. Son gün 31 Temmuz 2026. Dijital Vergi Dairesinden (dijital.gib.gov.tr) MTV Ödeme alanına şifre",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18484",
-      "category": "GENEL"
-    },
-    {
       "id": 18479,
       "date": "16.07.2026",
       "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 17/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18479",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18476,
-      "date": "16.07.2026",
-      "title": "Gelir Vergisi 2. Taksit Ödeme Dönemi Devam Ediyor",
-      "summary": "2025 yılında elde edilen gelir unsurlarına ilişkin Gelir Vergisi 2. taksit ödeme dönemi başladı. Son gün 31 Temmuz 2026. Ödemelerinizi; Dijital Vergi Dairesinden (dijital.gib.gov.tr) veya GİB Mobil uy",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18476",
-      "category": "GVK"
     },
     {
       "id": 18454,
@@ -113,14 +121,6 @@
       "title": "11511 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı",
       "summary": "11/7/2026 tarihli ve 33307 sayılı Resmi Gazete’de yayımlanan 11511 sayılı Cumhurbaşkanı Kararının Eki Karar ile 1/1/2024 tarihinden itibaren başlayan hesap dönemleri kazançlarına uygulanmak üzere Nite",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18434",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18426,
-      "date": "10.07.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 11/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18426",
       "category": "CB-KARARI"
     }
   ]
