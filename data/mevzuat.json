@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-07-31T06:15:27.291Z",
+  "fetchedAt": "2026-08-01T05:56:49.127Z",
   "count": 15,
   "items": [
+    {
+      "id": 18574,
+      "date": "31.07.2026",
+      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 531)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 594) Resmi Gazete’de Yayımlandı",
+      "summary": "31/07/2026 tarih ve 33326 sayılı Resmî Gazete’de yayımlanan 594 Seri Nolu Vergi Usul Kanunu Genel Tebliği ile 531 Seri Nolu Genel Tebliğin 5 inci maddesinin beşinci fıkrasında yapılan değişiklik ile h",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18574",
+      "category": "VUK"
+    },
     {
       "id": 18572,
       "date": "30.07.2026",
@@ -113,14 +121,6 @@
       "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 15/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18454",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18434,
-      "date": "11.07.2026",
-      "title": "11511 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı",
-      "summary": "11/7/2026 tarihli ve 33307 sayılı Resmi Gazete’de yayımlanan 11511 sayılı Cumhurbaşkanı Kararının Eki Karar ile 1/1/2024 tarihinden itibaren başlayan hesap dönemleri kazançlarına uygulanmak üzere Nite",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18434",
       "category": "CB-KARARI"
     }
   ]
