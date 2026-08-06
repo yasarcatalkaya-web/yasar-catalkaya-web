@@ -1,8 +1,24 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-08-05T05:47:26.341Z",
+  "fetchedAt": "2026-08-06T05:50:37.188Z",
   "count": 15,
   "items": [
+    {
+      "id": 18610,
+      "date": "06.08.2026",
+      "title": "Emlak Vergisi Kanunu Genel Tebliği (Seri No: 90) Resmi Gazete’de Yayımlandı",
+      "summary": "213 sayılı Vergi Usul Kanununun mükerrer 49/a maddesi hükmü gereği, emlak vergisine esas olmak üzere 2027 yılında uygulanacak bina metrekare normal inşaat maliyet bedellerinin yer aldığı Cetvel, Bakan",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18610",
+      "category": "TEBLİĞ"
+    },
+    {
+      "id": 18603,
+      "date": "05.08.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 6/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18603",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18597,
       "date": "04.08.2026",
@@ -105,22 +121,6 @@
       "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 25/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18533",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18529,
-      "date": "24.07.2026",
-      "title": "5520 Sayılı Kurumlar Vergisi Kanunu 73 Nolu Sirküler Yayımlandı",
-      "summary": "5520 sayılı Kurumlar Vergisi Kanunu 73 Nolu Sirküleri ile 2026 yılı ikinci geçici vergi döneminde uygulanacak yeniden değerleme oranı % 11,51 (yüzde onbir virgül ellibir) olarak tespit edilmiştir. Söz",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18529",
-      "category": "KVK"
-    },
-    {
-      "id": 18517,
-      "date": "22.07.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 23/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18517",
       "category": "CB-KARARI"
     }
   ]
