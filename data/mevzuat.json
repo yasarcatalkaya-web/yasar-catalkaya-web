@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-08-10T04:39:25.647Z",
+  "fetchedAt": "2026-08-11T04:20:42.900Z",
   "count": 15,
   "items": [
+    {
+      "id": 18628,
+      "date": "10.08.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 11/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18628",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18623,
       "date": "07.08.2026",
@@ -114,14 +122,6 @@
       "summary": "7582 sayılı Kanunun 10 uncu maddesiyle 5520 sayılı Kurumlar Vergisi Kanununa eklenen geçici 19 uncu madde hükümlerinin uygulanmasına ilişkin usul ve esaslar, 1 Seri No.lu Bazı Varlıkların Ekonomiye Ka",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18551",
       "category": "REHBER"
-    },
-    {
-      "id": 18542,
-      "date": "27.07.2026",
-      "title": "Tarhiyat Öncesi ve Tarhiyat Sonrası Uzlaşma Broşürü Yayımlandı",
-      "summary": "Uzlaşma, mükelleflerin ikmalen, re’sen ve idarece tarh edilecek/edilen vergilere ilişkin kesilecek/kesilen vergi ziyaı cezaları ile belirli bir tutarı aşan usulsüzlük ve özel usulsüzlük cezaları konus",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18542",
-      "category": "GENEL"
     }
   ]
 }
