@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-08-21T03:51:19.778Z",
+  "fetchedAt": "2026-08-22T03:43:10.035Z",
   "count": 15,
   "items": [
+    {
+      "id": 18690,
+      "date": "21.08.2026",
+      "title": "Yeminli Mali Müşavirlik Tasdik Raporlarına Eklenen Karşıt İnceleme Tutanaklarının Elektronik Ortamda Gönderilmesi Hakkında Tebliğ (Sıra No: 1)'de  Değişiklik Yapılmasına Dair Tebliğ (Sıra No:2) Resmî Gazete’de Yayımlandı",
+      "summary": "Yeminli Mali Müşavirlik Tasdik Raporlarına Eklenen Karşıt İnceleme Tutanaklarının Elektronik Ortamda Gönderilmesi Hakkında Tebliğ (Sıra No: 1)'de Değişiklik Yapılmasına Dair Tebliğ (Sıra No:2) 21/08/2",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18690",
+      "category": "TEBLİĞ"
+    },
     {
       "id": 18646,
       "date": "13.08.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 31/7/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18572",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18484,
-      "date": "30.07.2026",
-      "title": "Motorlu Taşıtlar Vergisi 2. Taksit Ödeme Dönemi İçin Son Gün 31 Temmuz 2026",
-      "summary": "2026 yılına ait Motorlu Taşıtlar Vergisinin (MTV) 2. taksit ödeme dönemi 1 Temmuz 2026 tarihinde başladı. Son gün 31 Temmuz 2026. Dijital Vergi Dairesinden (dijital.gib.gov.tr) MTV Ödeme alanına şifre",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18484",
-      "category": "GENEL"
     }
   ]
 }
