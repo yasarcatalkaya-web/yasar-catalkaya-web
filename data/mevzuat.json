@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-09-02T07:42:55.212Z",
+  "fetchedAt": "2026-09-03T07:51:56.919Z",
   "count": 15,
   "items": [
+    {
+      "id": 18766,
+      "date": "02.09.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 3/9/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18766",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18707,
       "date": "24.08.2026",
@@ -114,14 +122,6 @@
       "summary": "Vergi cezalarında indirim uygulaması ile mükellefler veya vergi sorumluları adına kesilen cezalar hakkında yargı yoluna gitmeden uyuşmazlıkların kısa yoldan çözümlenmesi sağlanmaktadır. Bu kapsamda ha",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18583",
       "category": "GENEL"
-    },
-    {
-      "id": 18574,
-      "date": "31.07.2026",
-      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 531)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 594) Resmi Gazete’de Yayımlandı",
-      "summary": "31/07/2026 tarih ve 33326 sayılı Resmî Gazete’de yayımlanan 594 Seri Nolu Vergi Usul Kanunu Genel Tebliği ile 531 Seri Nolu Genel Tebliğin 5 inci maddesinin beşinci fıkrasında yapılan değişiklik ile h",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18574",
-      "category": "VUK"
     }
   ]
 }
