@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-09-03T07:51:56.919Z",
+  "fetchedAt": "2026-09-04T07:47:43.461Z",
   "count": 15,
   "items": [
+    {
+      "id": 18777,
+      "date": "03.09.2026",
+      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
+      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 4/9/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18777",
+      "category": "CB-KARARI"
+    },
     {
       "id": 18766,
       "date": "02.09.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 4/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18592",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18583,
-      "date": "03.08.2026",
-      "title": "Vergi Cezalarında İndirim Uygulaması Broşürü Yayımlandı",
-      "summary": "Vergi cezalarında indirim uygulaması ile mükellefler veya vergi sorumluları adına kesilen cezalar hakkında yargı yoluna gitmeden uyuşmazlıkların kısa yoldan çözümlenmesi sağlanmaktadır. Bu kapsamda ha",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18583",
-      "category": "GENEL"
     }
   ]
 }
