@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-09-07T08:01:26.667Z",
+  "fetchedAt": "2026-09-08T07:53:55.725Z",
   "count": 15,
   "items": [
+    {
+      "id": 18801,
+      "date": "07.09.2026",
+      "title": "Yurt Dışından Elde Edilen Kazanç ve İratlarda Vergi İstisnası Rehberi ile İnfografik Yayımlandı ",
+      "summary": "7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 4 üncü maddesiyle Gelir Vergisi Kanununa eklenen mükerrer 20/D maddesi kapsamında, Türkiye’de yerleşmiş sayılan gerçek kişilerin yurt dı",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18801",
+      "category": "REHBER"
+    },
     {
       "id": 18792,
       "date": "05.09.2026",
@@ -114,14 +122,6 @@
       "summary": "213 sayılı Vergi Usul Kanununun mükerrer 49/a maddesi hükmü gereği, emlak vergisine esas olmak üzere 2027 yılında uygulanacak bina metrekare normal inşaat maliyet bedellerinin yer aldığı Cetvel, Bakan",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18610",
       "category": "TEBLİĞ"
-    },
-    {
-      "id": 18603,
-      "date": "05.08.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 6/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18603",
-      "category": "CB-KARARI"
     }
   ]
 }
