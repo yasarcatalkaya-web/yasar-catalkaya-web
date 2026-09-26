@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-09-25T08:36:35.252Z",
+  "fetchedAt": "2026-09-26T08:23:35.431Z",
   "count": 15,
   "items": [
+    {
+      "id": 19012,
+      "date": "25.09.2026",
+      "title": "Engelliler İçin Vergi Rehberi ile İnfografikler Yayımlandı",
+      "summary": "Anayasamızın 61 inci maddesiyle, engelli bireylerin yaşam standartlarının iyileştirilmesi ve toplum hayatına katılımlarının desteklenmesi güvence altına alınmıştır. Bu doğrultuda engelli vatandaşların",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19012",
+      "category": "REHBER"
+    },
     {
       "id": 18867,
       "date": "15.09.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 8/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18623",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18618,
-      "date": "07.08.2026",
-      "title": "1 Sıra Nolu Yeminli Mali Müşavirlik Tasdik Raporlarına Eklenen Karşıt İnceleme Tutanaklarının Elektronik Ortamda Gönderilmesi Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ(Sıra No: 2) Yayımlanmak Üzere Cumhurbaşkanlığına Gönderilmiştir",
-      "summary": "1 Sıra Nolu Yeminli Mali Müşavirlik Tasdik Raporlarına Eklenen Karşıt İnceleme Tutanaklarının Elektronik Ortamda Gönderilmesi Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 2) Resmi Ga",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18618",
-      "category": "TEBLİĞ"
     }
   ]
 }
