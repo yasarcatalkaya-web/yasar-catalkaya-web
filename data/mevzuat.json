@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-10-10T09:33:04.261Z",
+  "fetchedAt": "2026-10-11T09:45:48.102Z",
   "count": 15,
   "items": [
+    {
+      "id": 19152,
+      "date": "11.10.2026",
+      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 596) Resmi Gazete’de Yayımlandı",
+      "summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 596) 11/10/2026 tarihli ve 33397 sayılı Resmi Gazete’de yayımlandı. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayını",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19152",
+      "category": "VUK"
+    },
     {
       "id": 19096,
       "date": "01.10.2026",
@@ -114,14 +122,6 @@
       "summary": "213 Sayılı Vergi Usul Kanununun 5 inci maddesi ve 561 Sıra No.lu Vergi Usul Kanunu Genel Tebliği uyarınca; 2025 vergilendirme dönemine ilişkin yıllık gelir vergisi ve kurumlar vergisi beyannamelerinin",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18644",
       "category": "GENEL"
-    },
-    {
-      "id": 18643,
-      "date": "13.08.2026",
-      "title": "11606 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı",
-      "summary": "Bazı Mallara Uygulanan Özel Tüketim Vergisi Tutarlarının Yeniden Belirlenmesi Hakkında Karar (Karar Sayısı: 11606) 13/08/2026 tarihli ve 33339 sayılı Resmi Gazete’de yayımlandı. Cumhurbaşkanı kararına",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18643",
-      "category": "CB-KARARI"
     }
   ]
 }
