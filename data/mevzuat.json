@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-10-30T09:43:01.809Z",
+  "fetchedAt": "2026-10-31T09:22:28.414Z",
   "count": 15,
   "items": [
+    {
+      "id": 19314,
+      "date": "30.10.2026",
+      "title": "5520 Sayılı Kurumlar Vergisi Kanunu 74 Nolu Sirküler Yayımlandı",
+      "summary": "5520 sayılı Kurumlar Vergisi Kanunu 74 Nolu Sirküleri ile 2026 yılı üçüncü geçici vergi döneminde uygulanacak yeniden değerleme oranı % 19,64 (yüzde ondokuz virgül altmışdört) olarak tespit edilmiştir",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19314",
+      "category": "KVK"
+    },
     {
       "id": 19152,
       "date": "11.10.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 14/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18646",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18644,
-      "date": "13.08.2026",
-      "title": "2025 Vergilendirme Dönemine İlişkin En Fazla Vergi Beyan Eden Mükellefler Açıklandı",
-      "summary": "213 Sayılı Vergi Usul Kanununun 5 inci maddesi ve 561 Sıra No.lu Vergi Usul Kanunu Genel Tebliği uyarınca; 2025 vergilendirme dönemine ilişkin yıllık gelir vergisi ve kurumlar vergisi beyannamelerinin",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18644",
-      "category": "GENEL"
     }
   ]
 }
