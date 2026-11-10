@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-11-09T11:01:29.862Z",
+  "fetchedAt": "2026-11-10T10:50:55.154Z",
   "count": 15,
   "items": [
+    {
+      "id": 19419,
+      "date": "10.11.2026",
+      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 597) Resmi Gazete’de Yayımlandı",
+      "summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 597) 10/11/2026 tarihli ve 33416 sayılı Resmi Gazete’de yayımlandı. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı bilgi notuna ulaşmak için tıklayını",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19419",
+      "category": "VUK"
+    },
     {
       "id": 19314,
       "date": "30.10.2026",
@@ -114,14 +122,6 @@
       "summary": "Yeminli Mali Müşavirlik Tasdik Raporlarına Eklenen Karşıt İnceleme Tutanaklarının Elektronik Ortamda Gönderilmesi Hakkında Tebliğ (Sıra No: 1)'de Değişiklik Yapılmasına Dair Tebliğ (Sıra No:2) 21/08/2",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18690",
       "category": "TEBLİĞ"
-    },
-    {
-      "id": 18646,
-      "date": "13.08.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 14/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18646",
-      "category": "CB-KARARI"
     }
   ]
 }
