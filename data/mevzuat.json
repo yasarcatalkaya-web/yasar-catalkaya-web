@@ -1,8 +1,16 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-11-19T11:15:39.873Z",
+  "fetchedAt": "2026-11-20T11:00:27.874Z",
   "count": 15,
   "items": [
+    {
+      "id": 19534,
+      "date": "20.11.2026",
+      "title": "Elektronik Tebligat Sistemine İlişkin Rehber, İnfografik ve Video Yayımlandı",
+      "summary": "Elektronik Tebligat (e-Tebligat), tebligatı yapan birim tarafından düzenlenen ve 213 sayılı Vergi Usul Kanunu hükümlerine göre tebliği gereken belgelerin, e-Tebligat Sistemi ile muhataplara elektronik",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19534",
+      "category": "TEBLİĞ"
+    },
     {
       "id": 19419,
       "date": "10.11.2026",
@@ -114,14 +122,6 @@
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 25/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18707",
       "category": "CB-KARARI"
-    },
-    {
-      "id": 18690,
-      "date": "21.08.2026",
-      "title": "Yeminli Mali Müşavirlik Tasdik Raporlarına Eklenen Karşıt İnceleme Tutanaklarının Elektronik Ortamda Gönderilmesi Hakkında Tebliğ (Sıra No: 1)'de  Değişiklik Yapılmasına Dair Tebliğ (Sıra No:2) Resmî Gazete’de Yayımlandı",
-      "summary": "Yeminli Mali Müşavirlik Tasdik Raporlarına Eklenen Karşıt İnceleme Tutanaklarının Elektronik Ortamda Gönderilmesi Hakkında Tebliğ (Sıra No: 1)'de Değişiklik Yapılmasına Dair Tebliğ (Sıra No:2) 21/08/2",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18690",
-      "category": "TEBLİĞ"
     }
   ]
 }
