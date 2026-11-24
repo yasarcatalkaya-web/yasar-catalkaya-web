@@ -1,8 +1,24 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-11-23T11:57:08.923Z",
+  "fetchedAt": "2026-11-24T13:22:54.253Z",
   "count": 15,
   "items": [
+    {
+      "id": 19545,
+      "date": "24.11.2026",
+      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598) Resmi Gazete’de Yayımlandı",
+      "summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598) 24/11/2026 tarihli ve 33440 sayılı Resmi Gazete’de yayımlandı. Söz konusu Tebliğe ulaşmak için tıkl",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19545",
+      "category": "VUK"
+    },
+    {
+      "id": 19546,
+      "date": "24.11.2026",
+      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599) Resmi Gazete’de Yayımlandı ",
+      "summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599) 24/11/2026 tarihli ve 33440 sayılı Resmi Gazete’de yayımlandı. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayını",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19546",
+      "category": "VUK"
+    },
     {
       "id": 19534,
       "date": "20.11.2026",
@@ -105,22 +121,6 @@
       "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
       "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 4/9/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18777",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18766,
-      "date": "02.09.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 3/9/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18766",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18707,
-      "date": "24.08.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 25/8/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18707",
       "category": "CB-KARARI"
     }
   ]
