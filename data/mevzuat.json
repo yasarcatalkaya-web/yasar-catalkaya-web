@@ -1,8 +1,32 @@
 {
   "source": "gib.gov.tr/duyuru-arsivi/mevzuat",
-  "fetchedAt": "2026-11-26T11:59:39.408Z",
+  "fetchedAt": "2026-11-27T11:51:43.828Z",
   "count": 15,
   "items": [
+    {
+      "id": 19590,
+      "date": "27.11.2026",
+      "title": "Tahsilat Genel Tebliği (Seri:C Sıra No:10) Resmi Gazete’de Yayımlandı",
+      "summary": "Tahsilat Genel Tebliği (Seri:C Sıra No:10) 27/11/2026 tarihli ve 33443 sayılı Resmi Gazete’de yayımlandı. Söz konusu Tebliğe ulaşmak için tıklayınız. Açıklayıcı Bilgi Notuna ulaşmak için tıklayınız.",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19590",
+      "category": "TEBLİĞ"
+    },
+    {
+      "id": 19589,
+      "date": "27.11.2026",
+      "title": "12028 Sayılı Cumhurbaşkanı Kararı 27/11/2026 Tarihli ve 33443 Sayılı Resmi Gazete’de Yayımlandı",
+      "summary": "27/11/2026 tarihli ve 33443 sayılı Resmi Gazete’de yayımlanan 12028 sayılı Cumhurbaşkanı Kararıyla 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre 13/11/2025 tarihi",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19589",
+      "category": "CB-KARARI"
+    },
+    {
+      "id": 19595,
+      "date": "27.11.2026",
+      "title": "Kaynak Kullanımını Destekleme Fonu Kesintisi Hakkında Karar (Karar Sayısı: 12027) Resmi Gazete’de Yayımlandı",
+      "summary": "26/11/2026 tarihli ve 12027 sayılı Cumhurbaşkanı Kararı ile bankalar ve finansman şirketleri dışında Türkiye’de yerleşik kişilerin Asya Altyapı Yatırım Bankasından sağladıkları kredilerde Kaynak Kulla",
+      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/19595",
+      "category": "GENEL"
+    },
     {
       "id": 19545,
       "date": "24.11.2026",
@@ -98,30 +122,6 @@
       "summary": "7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 4 üncü maddesiyle Gelir Vergisi Kanununa eklenen mükerrer 20/D maddesi kapsamında, Türkiye’de yerleşmiş sayılan gerçek kişilerin yurt dı",
       "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18801",
       "category": "REHBER"
-    },
-    {
-      "id": 18792,
-      "date": "05.09.2026",
-      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 538)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 595) Resmi Gazete’de Yayımlandı",
-      "summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 538)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 595) 05/09/2026 tarihli ve 33361 sayılı Resmi Gazete’de yayımlandı. Söz konusu Tebliğe ulaşmak için tıkl",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18792",
-      "category": "VUK"
-    },
-    {
-      "id": 18791,
-      "date": "05.09.2026",
-      "title": "11734 Sayılı Cumhurbaşkanı Kararı Resmi Gazete'de Yayımlandı",
-      "summary": "5/9/2026 tarihli ve 33361 sayılı Resmi Gazete’de yayımlanan 11734 sayılı Cumhurbaşkanı Kararının Eki Karar ile 2006/10731 sayılı Bakanlar Kurulu Kararının Eki Kararda yapılan değişiklik ile tam ve dar",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18791",
-      "category": "CB-KARARI"
-    },
-    {
-      "id": 18777,
-      "date": "03.09.2026",
-      "title": "10995 Sayılı Cumhurbaşkanı Kararı Uyarınca Uygulanacak Özel Tüketim Vergisi Tutarları",
-      "summary": "4/3/2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararının eki Karar’ın ekindeki listede yer alan mallar için 4/9/2026 tarihinden itibaren aynı Karar uyarınca uygulanacak özel tüketim vergisi tutarları",
-      "url": "https://gib.gov.tr/duyuru-arsivi/mevzuat/18777",
-      "category": "CB-KARARI"
     }
   ]
 }
